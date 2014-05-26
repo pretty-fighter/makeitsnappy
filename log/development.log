@@ -1,0 +1,3534 @@
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-24 22:03:48 +0800
+Processing by QuestionsController#index as HTML
+  Rendered questions/index.html.erb within layouts/application (18.0ms)
+Completed 200 OK in 3956ms (Views: 3842.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-24 22:03:54 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-24 22:03:54 +0800
+
+
+Started GET "/assets/questions.css?body=1" for 127.0.0.1 at 2014-05-24 22:03:54 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-24 22:03:54 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-24 22:03:54 +0800
+
+
+Started GET "/assets/questions.js?body=1" for 127.0.0.1 at 2014-05-24 22:03:54 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-24 22:03:54 +0800
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-24 22:13:22 +0800
+Processing by QuestionsController#index as HTML
+  Rendered questions/index.html.erb within layouts/application (20.0ms)
+Completed 200 OK in 445ms (Views: 353.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-24 22:13:24 +0800
+
+
+Started GET "/assets/questions.js?body=1" for 127.0.0.1 at 2014-05-24 22:13:24 +0800
+
+
+Started GET "/assets/questions.css?body=1" for 127.0.0.1 at 2014-05-24 22:13:24 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-24 22:13:24 +0800
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-24 22:14:26 +0800
+Processing by QuestionsController#index as HTML
+  Rendered questions/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 54ms (Views: 50.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/questions.css?body=1" for 127.0.0.1 at 2014-05-24 22:14:27 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-24 22:14:27 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-24 22:14:27 +0800
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-24 22:14:27 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-24 22:14:27 +0800
+
+
+Started GET "/assets/questions.js?body=1" for 127.0.0.1 at 2014-05-24 22:14:27 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-24 22:14:27 +0800
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-24 22:17:03 +0800
+Processing by QuestionsController#index as HTML
+  Rendered questions/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 73ms (Views: 70.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/questions.css?body=1" for 127.0.0.1 at 2014-05-24 22:17:04 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-24 22:17:04 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-24 22:17:04 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-24 22:17:04 +0800
+
+
+Started GET "/assets/questions.js?body=1" for 127.0.0.1 at 2014-05-24 22:17:04 +0800
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-24 22:17:04 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-24 22:17:04 +0800
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-24 22:17:07 +0800
+Processing by QuestionsController#index as HTML
+  Rendered questions/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 42ms (Views: 38.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-24 22:17:09 +0800
+Processing by QuestionsController#index as HTML
+  Rendered questions/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 40ms (Views: 36.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-24 22:18:37 +0800
+Processing by QuestionsController#index as HTML
+  Rendered questions/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 56ms (Views: 52.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-24 22:18:37 +0800
+
+
+Started GET "/assets/questions.css?body=1" for 127.0.0.1 at 2014-05-24 22:18:38 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-24 22:18:38 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-24 22:18:38 +0800
+
+
+Started GET "/assets/questions.js?body=1" for 127.0.0.1 at 2014-05-24 22:18:38 +0800
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-24 22:18:38 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-24 22:18:38 +0800
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-24 22:19:16 +0800
+Processing by QuestionsController#index as HTML
+  Rendered questions/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 45ms (Views: 42.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-24 22:19:16 +0800
+
+
+Started GET "/assets/questions.css?body=1" for 127.0.0.1 at 2014-05-24 22:19:16 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-24 22:19:17 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-24 22:19:17 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-24 22:19:17 +0800
+
+
+Started GET "/assets/questions.js?body=1" for 127.0.0.1 at 2014-05-24 22:19:17 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-24 22:19:17 +0800
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-24 22:22:13 +0800
+Processing by QuestionsController#index as HTML
+  Rendered questions/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 52ms (Views: 49.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-24 22:22:13 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-24 22:22:13 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-24 22:22:14 +0800
+
+
+Started GET "/assets/questions.js?body=1" for 127.0.0.1 at 2014-05-24 22:22:14 +0800
+
+
+Started GET "/assets/questions.css?body=1" for 127.0.0.1 at 2014-05-24 22:22:14 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-24 22:22:14 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-24 22:22:14 +0800
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-24 22:24:01 +0800
+Processing by QuestionsController#index as HTML
+  Rendered questions/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 415ms (Views: 412.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-24 22:24:01 +0800
+
+
+Started GET "/assets/questions.css?body=1" for 127.0.0.1 at 2014-05-24 22:24:02 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-24 22:24:02 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-24 22:24:02 +0800
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-24 22:24:02 +0800
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-24 22:24:02 +0800
+
+
+Started GET "/assets/questions.js?body=1" for 127.0.0.1 at 2014-05-24 22:24:02 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-24 22:24:02 +0800
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-24 22:24:04 +0800
+Processing by QuestionsController#index as HTML
+  Rendered questions/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 41ms (Views: 39.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-24 22:24:05 +0800
+Processing by QuestionsController#index as HTML
+  Rendered questions/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 38ms (Views: 37.0ms | ActiveRecord: 0.0ms)
+  [1m[36m (119.0ms)[0m  [1mCREATE TABLE "schema_migrations" ("version" varchar(255) NOT NULL) [0m
+  [1m[35m (75.0ms)[0m  CREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")
+  [1m[36mActiveRecord::SchemaMigration Load (1.0ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Migrating to CreateUsers (20140524143759)
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (5.0ms)[0m  [1mCREATE TABLE "users" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "username" varchar(255), "password_digest" varchar(255), "created_at" datetime, "updated_at" datetime) [0m
+  [1m[35m (6.0ms)[0m  CREATE UNIQUE INDEX "index_users_on_username" ON "users" ("username")
+  [1m[36mSQL (1.0ms)[0m  [1mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20140524143759"]]
+  [1m[35m (65.0ms)[0m  commit transaction
+  [1m[36mActiveRecord::SchemaMigration Load (1.0ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36m (2.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (1.0ms)[0m  rollback transaction
+  [1m[36m (2.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (2.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mUser Load (10.0ms)[0m  SELECT "users".* FROM "users"
+  [1m[36mUser Load (1.0ms)[0m  [1mSELECT "users".* FROM "users"[0m
+  [1m[35mUser Exists (1.0ms)[0m  SELECT 1 AS one FROM "users" WHERE LOWER("users"."username") = LOWER('1sdasd') LIMIT 1
+  [1m[36mUser Exists (1.0ms)[0m  [1mSELECT 1 AS one FROM "users" WHERE LOWER("users"."username") = LOWER('a1sdasd') LIMIT 1[0m
+  [1m[35m (1.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mUser Exists (0.0ms)[0m  [1mSELECT 1 AS one FROM "users" WHERE LOWER("users"."username") = LOWER('a1sdasd') LIMIT 1[0m
+Binary data inserted for `string` type on column `password_digest`
+  [1m[35mSQL (84.0ms)[0m  INSERT INTO "users" ("created_at", "password_digest", "updated_at", "username") VALUES (?, ?, ?, ?)  [["created_at", Sat, 24 May 2014 15:42:00 UTC +00:00], ["password_digest", "$2a$10$eIBPyMxQVKOphmZecsCkg.d1KpQuHMX.CGRLoeIzFBCAYdZxXJTuW"], ["updated_at", Sat, 24 May 2014 15:42:00 UTC +00:00], ["username", "a1sdasd"]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mUser Exists (0.0ms)[0m  SELECT 1 AS one FROM "users" WHERE LOWER("users"."username") = LOWER('a1sdasd') LIMIT 1
+  [1m[36mUser Exists (1.0ms)[0m  [1mSELECT 1 AS one FROM "users" WHERE LOWER("users"."username") = LOWER('a2sdasd') LIMIT 1[0m
+  [1m[35m (1.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mUser Exists (1.0ms)[0m  [1mSELECT 1 AS one FROM "users" WHERE LOWER("users"."username") = LOWER('a2sdasd') LIMIT 1[0m
+Binary data inserted for `string` type on column `password_digest`
+  [1m[35mSQL (8.0ms)[0m  INSERT INTO "users" ("created_at", "password_digest", "updated_at", "username") VALUES (?, ?, ?, ?)  [["created_at", Sat, 24 May 2014 15:42:48 UTC +00:00], ["password_digest", "$2a$10$8sDUj5cKSmcJzVjv1AqFYO11oc/9oGZIzm5lMZLQnj8Eu6HuUPEfe"], ["updated_at", Sat, 24 May 2014 15:42:48 UTC +00:00], ["username", "a2sdasd"]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mUser Load (1.0ms)[0m  SELECT "users".* FROM "users"
+  [1m[36m (1.0ms)[0m  [1mSELECT COUNT(*) FROM "users"[0m
+  [1m[35m (4.0ms)[0m  rollback transaction
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 00:15:52 +0800
+  [1m[36mActiveRecord::SchemaMigration Load (1.0ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by QuestionsController#index as HTML
+  Rendered questions/index.html.erb within layouts/application (15.0ms)
+Completed 200 OK in 1820ms (Views: 1715.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-25 00:15:56 +0800
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-25 00:15:56 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 00:15:56 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 00:15:56 +0800
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-05-25 00:15:56 +0800
+
+
+Started GET "/assets/questions.css?body=1" for 127.0.0.1 at 2014-05-25 00:15:56 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 00:15:56 +0800
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-05-25 00:15:56 +0800
+
+
+Started GET "/assets/questions.js?body=1" for 127.0.0.1 at 2014-05-25 00:15:56 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 00:15:56 +0800
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 00:16:57 +0800
+Processing by QuestionsController#index as HTML
+  Rendered questions/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 70ms (Views: 65.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-25 00:16:58 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 00:16:58 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 00:16:58 +0800
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-05-25 00:16:58 +0800
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-05-25 00:16:58 +0800
+
+
+Started GET "/assets/questions.css?body=1" for 127.0.0.1 at 2014-05-25 00:16:58 +0800
+
+
+Started GET "/assets/questions.js?body=1" for 127.0.0.1 at 2014-05-25 00:16:58 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 00:16:58 +0800
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-25 00:16:58 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 00:16:58 +0800
+
+
+Started GET "/users/new" for 127.0.0.1 at 2014-05-25 00:17:00 +0800
+Processing by UsersController#new as HTML
+  Rendered users/new.html.erb within layouts/application (163.0ms)
+Completed 500 Internal Server Error in 353ms
+
+ActionView::Template::Error (Missing partial common/errors with {:locale=>[:en], :formats=>[:html, :xml], :handlers=>[:erb, :builder, :raw, :ruby, :jbuilder, :coffee]}. Searched in:
+  * "C:/learning/makeitsnappy/app/views"
+):
+    3: <h1>Register New User</h1>
+    4: 
+    5: <%= form_for(@user) do |f| %>
+    6:   <%= render 'common/errors', object: @user %>
+    7: 
+    8:   <p>
+    9:     <%= f.label :username %><br />
+  app/views/users/new.html.erb:6:in `block in _app_views_users_new_html_erb___645634490_38288412'
+  app/views/users/new.html.erb:5:in `_app_views_users_new_html_erb___645634490_38288412'
+
+
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.erb (4.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (3.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (103.0ms)
+
+
+Started GET "/users/new" for 127.0.0.1 at 2014-05-25 00:17:00 +0800
+Processing by UsersController#new as HTML
+  Rendered users/new.html.erb within layouts/application (19.0ms)
+Completed 500 Internal Server Error in 41ms
+
+ActionView::Template::Error (Missing partial common/errors with {:locale=>[:en], :formats=>[:html], :handlers=>[:erb, :builder, :raw, :ruby, :jbuilder, :coffee]}. Searched in:
+  * "C:/learning/makeitsnappy/app/views"
+):
+    3: <h1>Register New User</h1>
+    4: 
+    5: <%= form_for(@user) do |f| %>
+    6:   <%= render 'common/errors', object: @user %>
+    7: 
+    8:   <p>
+    9:     <%= f.label :username %><br />
+  app/views/users/new.html.erb:6:in `block in _app_views_users_new_html_erb___645634490_30648600'
+  app/views/users/new.html.erb:5:in `_app_views_users_new_html_erb___645634490_30648600'
+
+
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.erb (6.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (3.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (111.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 00:17:34 +0800
+Processing by QuestionsController#index as HTML
+  Rendered questions/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 90ms (Views: 85.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-25 00:17:35 +0800
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-25 00:17:35 +0800
+
+
+Started GET "/assets/questions.css?body=1" for 127.0.0.1 at 2014-05-25 00:17:35 +0800
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-05-25 00:17:35 +0800
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-05-25 00:17:35 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 00:17:35 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 00:17:35 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 00:17:35 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 00:17:35 +0800
+
+
+Started GET "/assets/questions.js?body=1" for 127.0.0.1 at 2014-05-25 00:17:35 +0800
+
+
+Started GET "/users/new" for 127.0.0.1 at 2014-05-25 00:17:56 +0800
+Processing by UsersController#new as HTML
+  Rendered common/_form_errors.html.erb (16.0ms)
+  Rendered users/new.html.erb within layouts/application (153.0ms)
+Completed 200 OK in 223ms (Views: 219.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/new" for 127.0.0.1 at 2014-05-25 00:19:42 +0800
+Processing by UsersController#new as HTML
+  Rendered common/_form_errors.html.erb (2.0ms)
+  Rendered users/new.html.erb within layouts/application (22.0ms)
+Completed 200 OK in 71ms (Views: 67.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-25 00:19:42 +0800
+
+
+Started GET "/assets/questions.css?body=1" for 127.0.0.1 at 2014-05-25 00:19:42 +0800
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-05-25 00:19:42 +0800
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-25 00:19:42 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 00:19:42 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 00:19:42 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 00:19:42 +0800
+
+
+Started GET "/assets/questions.js?body=1" for 127.0.0.1 at 2014-05-25 00:19:43 +0800
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-05-25 00:19:43 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 00:19:43 +0800
+
+
+Started GET "/users/new" for 127.0.0.1 at 2014-05-25 00:27:14 +0800
+Processing by UsersController#new as HTML
+  Rendered common/_form_errors.html.erb (0.0ms)
+  Rendered users/new.html.erb within layouts/application (39.0ms)
+Completed 200 OK in 120ms (Views: 84.0ms | ActiveRecord: 5.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-25 00:27:15 +0800
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-05-25 00:27:15 +0800
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-25 00:27:15 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 00:27:15 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 00:27:15 +0800
+
+
+Started GET "/assets/questions.css?body=1" for 127.0.0.1 at 2014-05-25 00:27:15 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 00:27:15 +0800
+
+
+Started GET "/assets/questions.js?body=1" for 127.0.0.1 at 2014-05-25 00:27:15 +0800
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-05-25 00:27:15 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 00:27:15 +0800
+
+
+Started POST "/users" for 127.0.0.1 at 2014-05-25 00:27:17 +0800
+Processing by UsersController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"RfxBql0nOzbViCHEYIgWZueKX+Ef++jYbqPyMAKJruw=", "user"=>{"username"=>"", "password"=>"[FILTERED]", "pasword_confirmation"=>""}, "commit"=>"Register"}
+Unpermitted parameters: pasword_confirmation
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mUser Exists (2.0ms)[0m  [1mSELECT 1 AS one FROM "users" WHERE LOWER("users"."username") = LOWER('') LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  Rendered common/_form_errors.html.erb (11.0ms)
+  Rendered users/new.html.erb within layouts/application (36.0ms)
+Completed 200 OK in 231ms (Views: 106.0ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-25 00:27:18 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 00:27:18 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 00:27:18 +0800
+
+
+Started GET "/assets/questions.css?body=1" for 127.0.0.1 at 2014-05-25 00:27:18 +0800
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-05-25 00:27:18 +0800
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-25 00:27:18 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 00:27:18 +0800
+
+
+Started GET "/assets/questions.js?body=1" for 127.0.0.1 at 2014-05-25 00:27:18 +0800
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-05-25 00:27:18 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 00:27:18 +0800
+
+
+Started POST "/users" for 127.0.0.1 at 2014-05-25 00:27:43 +0800
+Processing by UsersController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"RfxBql0nOzbViCHEYIgWZueKX+Ef++jYbqPyMAKJruw=", "user"=>{"username"=>"", "password"=>"[FILTERED]", "pasword_confirmation"=>""}, "commit"=>"Register"}
+Unpermitted parameters: pasword_confirmation
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mUser Exists (0.0ms)[0m  SELECT 1 AS one FROM "users" WHERE LOWER("users"."username") = LOWER('') LIMIT 1
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  Rendered common/_form_errors.html.erb (11.0ms)
+  Rendered users/new.html.erb within layouts/application (31.0ms)
+Completed 200 OK in 155ms (Views: 85.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-25 00:27:44 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 00:27:44 +0800
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-25 00:27:44 +0800
+
+
+Started GET "/assets/questions.css?body=1" for 127.0.0.1 at 2014-05-25 00:27:44 +0800
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-05-25 00:27:44 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 00:27:44 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 00:27:44 +0800
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-05-25 00:27:44 +0800
+
+
+Started GET "/assets/questions.js?body=1" for 127.0.0.1 at 2014-05-25 00:27:44 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 00:27:44 +0800
+
+
+Started POST "/users" for 127.0.0.1 at 2014-05-25 00:28:07 +0800
+Processing by UsersController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"RfxBql0nOzbViCHEYIgWZueKX+Ef++jYbqPyMAKJruw=", "user"=>{"username"=>"yes11", "password"=>"[FILTERED]", "pasword_confirmation"=>""}, "commit"=>"Register"}
+Unpermitted parameters: pasword_confirmation
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mUser Exists (1.0ms)[0m  [1mSELECT 1 AS one FROM "users" WHERE LOWER("users"."username") = LOWER('yes11') LIMIT 1[0m
+  [1m[35m (1.0ms)[0m  rollback transaction
+  Rendered common/_form_errors.html.erb (3.0ms)
+  Rendered users/new.html.erb within layouts/application (21.0ms)
+Completed 200 OK in 99ms (Views: 69.0ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-25 00:28:07 +0800
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-25 00:28:07 +0800
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-05-25 00:28:07 +0800
+
+
+Started GET "/assets/questions.css?body=1" for 127.0.0.1 at 2014-05-25 00:28:07 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 00:28:07 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 00:28:07 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 00:28:07 +0800
+
+
+Started GET "/assets/questions.js?body=1" for 127.0.0.1 at 2014-05-25 00:28:07 +0800
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-05-25 00:28:07 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 00:28:07 +0800
+
+
+Started POST "/users" for 127.0.0.1 at 2014-05-25 00:28:12 +0800
+Processing by UsersController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"RfxBql0nOzbViCHEYIgWZueKX+Ef++jYbqPyMAKJruw=", "user"=>{"username"=>"yes11", "password"=>"[FILTERED]", "pasword_confirmation"=>"1"}, "commit"=>"Register"}
+Unpermitted parameters: pasword_confirmation
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mUser Exists (0.0ms)[0m  SELECT 1 AS one FROM "users" WHERE LOWER("users"."username") = LOWER('yes11') LIMIT 1
+  [1m[36m (1.0ms)[0m  [1mrollback transaction[0m
+  Rendered common/_form_errors.html.erb (3.0ms)
+  Rendered users/new.html.erb within layouts/application (19.0ms)
+Completed 200 OK in 373ms (Views: 68.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-25 00:28:13 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 00:28:13 +0800
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-25 00:28:13 +0800
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-05-25 00:28:13 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 00:28:13 +0800
+
+
+Started GET "/assets/questions.css?body=1" for 127.0.0.1 at 2014-05-25 00:28:13 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 00:28:13 +0800
+
+
+Started GET "/assets/questions.js?body=1" for 127.0.0.1 at 2014-05-25 00:28:13 +0800
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-05-25 00:28:13 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 00:28:13 +0800
+
+
+Started POST "/users" for 127.0.0.1 at 2014-05-25 00:28:18 +0800
+Processing by UsersController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"RfxBql0nOzbViCHEYIgWZueKX+Ef++jYbqPyMAKJruw=", "user"=>{"username"=>"yes11", "password"=>"[FILTERED]", "pasword_confirmation"=>"1"}, "commit"=>"Register"}
+Unpermitted parameters: pasword_confirmation
+  [1m[35m (1.0ms)[0m  begin transaction
+  [1m[36mUser Exists (1.0ms)[0m  [1mSELECT 1 AS one FROM "users" WHERE LOWER("users"."username") = LOWER('yes11') LIMIT 1[0m
+  [1m[35m (1.0ms)[0m  rollback transaction
+  Rendered common/_form_errors.html.erb (6.0ms)
+  Rendered users/new.html.erb within layouts/application (23.0ms)
+Completed 200 OK in 379ms (Views: 64.0ms | ActiveRecord: 3.0ms)
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-25 00:28:18 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 00:28:19 +0800
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-05-25 00:28:19 +0800
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-25 00:28:19 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 00:28:19 +0800
+
+
+Started GET "/assets/questions.css?body=1" for 127.0.0.1 at 2014-05-25 00:28:19 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 00:28:19 +0800
+
+
+Started GET "/assets/questions.js?body=1" for 127.0.0.1 at 2014-05-25 00:28:19 +0800
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-05-25 00:28:19 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 00:28:19 +0800
+
+
+Started POST "/users" for 127.0.0.1 at 2014-05-25 00:28:35 +0800
+Processing by UsersController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"RfxBql0nOzbViCHEYIgWZueKX+Ef++jYbqPyMAKJruw=", "user"=>{"username"=>"yes11", "password"=>"[FILTERED]", "pasword_confirmation"=>"1234"}, "commit"=>"Register"}
+Unpermitted parameters: pasword_confirmation
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mUser Exists (1.0ms)[0m  SELECT 1 AS one FROM "users" WHERE LOWER("users"."username") = LOWER('yes11') LIMIT 1
+  [1m[36m (1.0ms)[0m  [1mrollback transaction[0m
+  Rendered common/_form_errors.html.erb (3.0ms)
+  Rendered users/new.html.erb within layouts/application (18.0ms)
+Completed 200 OK in 379ms (Views: 66.0ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-25 00:28:36 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 00:28:36 +0800
+
+
+Started GET "/assets/questions.css?body=1" for 127.0.0.1 at 2014-05-25 00:28:36 +0800
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-05-25 00:28:36 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 00:28:36 +0800
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-25 00:28:36 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 00:28:36 +0800
+
+
+Started GET "/assets/questions.js?body=1" for 127.0.0.1 at 2014-05-25 00:28:36 +0800
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-05-25 00:28:36 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 00:28:36 +0800
+
+
+Started POST "/users" for 127.0.0.1 at 2014-05-25 00:29:06 +0800
+Processing by UsersController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"RfxBql0nOzbViCHEYIgWZueKX+Ef++jYbqPyMAKJruw=", "user"=>{"username"=>"yes11", "password"=>"[FILTERED]", "pasword_confirmation"=>"1234"}, "commit"=>"Register"}
+Unpermitted parameters: pasword_confirmation
+  [1m[35m (1.0ms)[0m  begin transaction
+  [1m[36mUser Exists (1.0ms)[0m  [1mSELECT 1 AS one FROM "users" WHERE LOWER("users"."username") = LOWER('yes11') LIMIT 1[0m
+  [1m[35m (1.0ms)[0m  rollback transaction
+  Rendered common/_form_errors.html.erb (3.0ms)
+  Rendered users/new.html.erb within layouts/application (24.0ms)
+Completed 200 OK in 429ms (Views: 73.0ms | ActiveRecord: 3.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-25 00:29:07 +0800
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-25 00:29:07 +0800
+
+
+Started GET "/assets/questions.css?body=1" for 127.0.0.1 at 2014-05-25 00:29:07 +0800
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-05-25 00:29:07 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 00:29:07 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 00:29:07 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 00:29:07 +0800
+
+
+Started GET "/assets/questions.js?body=1" for 127.0.0.1 at 2014-05-25 00:29:07 +0800
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-05-25 00:29:07 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 00:29:07 +0800
+
+
+Started POST "/users" for 127.0.0.1 at 2014-05-25 00:29:12 +0800
+Processing by UsersController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"RfxBql0nOzbViCHEYIgWZueKX+Ef++jYbqPyMAKJruw=", "user"=>{"username"=>"yes11", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]"}, "commit"=>"Register"}
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mUser Exists (1.0ms)[0m  SELECT 1 AS one FROM "users" WHERE LOWER("users"."username") = LOWER('yes11') LIMIT 1
+  [1m[36m (1.0ms)[0m  [1mrollback transaction[0m
+  Rendered common/_form_errors.html.erb (3.0ms)
+  Rendered users/new.html.erb within layouts/application (24.0ms)
+Completed 200 OK in 381ms (Views: 64.0ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-25 00:29:13 +0800
+
+
+Started GET "/assets/questions.css?body=1" for 127.0.0.1 at 2014-05-25 00:29:13 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 00:29:13 +0800
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-25 00:29:13 +0800
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-05-25 00:29:13 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 00:29:13 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 00:29:13 +0800
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-05-25 00:29:13 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 00:29:13 +0800
+
+
+Started GET "/assets/questions.js?body=1" for 127.0.0.1 at 2014-05-25 00:29:13 +0800
+
+
+Started POST "/users" for 127.0.0.1 at 2014-05-25 00:29:26 +0800
+Processing by UsersController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"RfxBql0nOzbViCHEYIgWZueKX+Ef++jYbqPyMAKJruw=", "user"=>{"username"=>"erick", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]"}, "commit"=>"Register"}
+  [1m[35m (1.0ms)[0m  begin transaction
+  [1m[36mUser Exists (2.0ms)[0m  [1mSELECT 1 AS one FROM "users" WHERE LOWER("users"."username") = LOWER('erick') LIMIT 1[0m
+Binary data inserted for `string` type on column `password_digest`
+  [1m[35mSQL (42.0ms)[0m  INSERT INTO "users" ("created_at", "password_digest", "updated_at", "username") VALUES (?, ?, ?, ?)  [["created_at", Sat, 24 May 2014 16:29:26 UTC +00:00], ["password_digest", "$2a$10$gjAutkEcPK0IB0kJsisjn.5XV2MyShTDMBRCPVKdpslQn.nvQCHxi"], ["updated_at", Sat, 24 May 2014 16:29:26 UTC +00:00], ["username", "erick"]]
+  [1m[36m (106.0ms)[0m  [1mcommit transaction[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 480ms (ActiveRecord: 151.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 00:29:26 +0800
+Processing by QuestionsController#index as HTML
+  Rendered questions/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 49ms (Views: 45.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-25 00:29:26 +0800
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-25 00:29:26 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 00:29:27 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 00:29:27 +0800
+
+
+Started GET "/assets/questions.css?body=1" for 127.0.0.1 at 2014-05-25 00:29:27 +0800
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-05-25 00:29:27 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 00:29:27 +0800
+
+
+Started GET "/assets/questions.js?body=1" for 127.0.0.1 at 2014-05-25 00:29:27 +0800
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-05-25 00:29:27 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 00:29:27 +0800
+
+
+Started GET "/users/new" for 127.0.0.1 at 2014-05-25 00:32:00 +0800
+Processing by UsersController#new as HTML
+  Rendered common/_form_errors.html.erb (2.0ms)
+  Rendered users/new.html.erb within layouts/application (41.0ms)
+Completed 200 OK in 116ms (Views: 82.0ms | ActiveRecord: 4.0ms)
+
+
+Started POST "/users" for 127.0.0.1 at 2014-05-25 00:32:02 +0800
+Processing by UsersController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"RfxBql0nOzbViCHEYIgWZueKX+Ef++jYbqPyMAKJruw=", "user"=>{"username"=>"", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]"}, "commit"=>"Register"}
+  [1m[35m (1.0ms)[0m  begin transaction
+  [1m[36mUser Exists (2.0ms)[0m  [1mSELECT 1 AS one FROM "users" WHERE LOWER("users"."username") = LOWER('') LIMIT 1[0m
+  [1m[35m (1.0ms)[0m  rollback transaction
+  Rendered common/_form_errors.html.erb (6.0ms)
+  Rendered users/new.html.erb within layouts/application (21.0ms)
+Completed 200 OK in 115ms (Views: 72.0ms | ActiveRecord: 4.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-25 00:32:02 +0800
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-25 00:32:02 +0800
+
+
+Started GET "/assets/questions.css?body=1" for 127.0.0.1 at 2014-05-25 00:32:02 +0800
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-05-25 00:32:02 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 00:32:02 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 00:32:02 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 00:32:02 +0800
+
+
+Started GET "/assets/questions.js?body=1" for 127.0.0.1 at 2014-05-25 00:32:03 +0800
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-05-25 00:32:03 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 00:32:03 +0800
+  [1m[36mUser Load (1.0ms)[0m  [1mSELECT "users".* FROM "users" ORDER BY "users"."id" ASC LIMIT 1[0m
+  [1m[35mUser Load (1.0ms)[0m  SELECT "users".* FROM "users"
+  [1m[36m (1.0ms)[0m  [1mSELECT COUNT(*) FROM "users"[0m
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 02:35:55 +0800
+  [1m[36mActiveRecord::SchemaMigration Load (1.0ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by QuestionsController#index as HTML
+  Rendered questions/index.html.erb within layouts/application (13.0ms)
+Completed 500 Internal Server Error in 2977ms
+
+ActionView::Template::Error (undefined local variable or method `logged_in' for #<#<Class:0x2b6fb18>:0x2b84b30>):
+    16:   <div id="nav">
+    17:     <ul>
+    18:       <li><%= link_to 'Home', root_path %></li>
+    19:       <% if logged_in> %>
+    20:         <li><%= link_to "Logout (#{current_user.username})", '#' %></li>
+    21:       <% else %>
+    22:         <li><%= link_to 'Register', new_user_path %></li>
+  app/views/layouts/application.html.erb:19:in `_app_views_layouts_application_html_erb__556605785_25154004'
+
+
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.erb (4.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (3.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (127.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 02:36:40 +0800
+Processing by QuestionsController#index as HTML
+  Rendered questions/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 100ms (Views: 96.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/questions.css?body=1" for 127.0.0.1 at 2014-05-25 02:36:41 +0800
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-05-25 02:36:41 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 02:36:41 +0800
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-25 02:36:41 +0800
+
+
+Started GET "/assets/sessions.css?body=1" for 127.0.0.1 at 2014-05-25 02:36:41 +0800
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-25 02:36:41 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 02:36:41 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 02:36:41 +0800
+
+
+Started GET "/assets/questions.js?body=1" for 127.0.0.1 at 2014-05-25 02:36:41 +0800
+
+
+Started GET "/assets/sessions.js?body=1" for 127.0.0.1 at 2014-05-25 02:36:41 +0800
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-05-25 02:36:41 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 02:36:41 +0800
+
+
+Started GET "/sessions/new" for 127.0.0.1 at 2014-05-25 02:36:43 +0800
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (83.0ms)
+Completed 200 OK in 156ms (Views: 153.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/sessions" for 127.0.0.1 at 2014-05-25 02:36:45 +0800
+Processing by SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"RfxBql0nOzbViCHEYIgWZueKX+Ef++jYbqPyMAKJruw=", "session"=>{"username"=>"", "password"=>"[FILTERED]"}, "commit"=>"Login"}
+  [1m[35mUser Load (1.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."username" = '' LIMIT 1
+  Rendered sessions/new.html.erb within layouts/application (6.0ms)
+Completed 200 OK in 232ms (Views: 60.0ms | ActiveRecord: 3.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-25 02:36:45 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 02:36:45 +0800
+
+
+Started GET "/assets/questions.css?body=1" for 127.0.0.1 at 2014-05-25 02:36:45 +0800
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-05-25 02:36:45 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 02:36:45 +0800
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-25 02:36:45 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 02:36:45 +0800
+
+
+Started GET "/assets/questions.js?body=1" for 127.0.0.1 at 2014-05-25 02:36:46 +0800
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-05-25 02:36:46 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 02:36:46 +0800
+
+
+Started POST "/sessions" for 127.0.0.1 at 2014-05-25 02:37:00 +0800
+Processing by SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"RfxBql0nOzbViCHEYIgWZueKX+Ef++jYbqPyMAKJruw=", "session"=>{"username"=>"", "password"=>"[FILTERED]"}, "commit"=>"Login"}
+  [1m[36mUser Load (1.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."username" = '' LIMIT 1[0m
+  Rendered sessions/new.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 59ms (Views: 50.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-05-25 02:37:00 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 02:37:00 +0800
+
+
+Started GET "/assets/questions.css?body=1" for 127.0.0.1 at 2014-05-25 02:37:00 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 02:37:00 +0800
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-25 02:37:00 +0800
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-25 02:37:01 +0800
+
+
+Started GET "/assets/questions.js?body=1" for 127.0.0.1 at 2014-05-25 02:37:01 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 02:37:01 +0800
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-05-25 02:37:01 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 02:37:01 +0800
+
+
+Started POST "/sessions" for 127.0.0.1 at 2014-05-25 02:37:02 +0800
+Processing by SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"RfxBql0nOzbViCHEYIgWZueKX+Ef++jYbqPyMAKJruw=", "session"=>{"username"=>"", "password"=>"[FILTERED]"}, "commit"=>"Login"}
+  [1m[35mUser Load (1.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."username" = '' LIMIT 1
+  Rendered sessions/new.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 60ms (Views: 51.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/questions.css?body=1" for 127.0.0.1 at 2014-05-25 02:37:02 +0800
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-25 02:37:02 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 02:37:02 +0800
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-05-25 02:37:02 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 02:37:02 +0800
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-25 02:37:02 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 02:37:02 +0800
+
+
+Started GET "/assets/questions.js?body=1" for 127.0.0.1 at 2014-05-25 02:37:02 +0800
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-05-25 02:37:02 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 02:37:02 +0800
+
+
+Started POST "/sessions" for 127.0.0.1 at 2014-05-25 02:37:13 +0800
+Processing by SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"RfxBql0nOzbViCHEYIgWZueKX+Ef++jYbqPyMAKJruw=", "session"=>{"username"=>"erick", "password"=>"[FILTERED]"}, "commit"=>"Login"}
+  [1m[36mUser Load (1.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."username" = 'erick' LIMIT 1[0m
+  Rendered sessions/new.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 383ms (Views: 55.0ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-25 02:37:14 +0800
+
+
+Started GET "/assets/questions.css?body=1" for 127.0.0.1 at 2014-05-25 02:37:14 +0800
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-25 02:37:14 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 02:37:14 +0800
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-05-25 02:37:14 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 02:37:14 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 02:37:14 +0800
+
+
+Started GET "/assets/questions.js?body=1" for 127.0.0.1 at 2014-05-25 02:37:14 +0800
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-05-25 02:37:14 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 02:37:14 +0800
+
+
+Started POST "/sessions" for 127.0.0.1 at 2014-05-25 02:37:21 +0800
+Processing by SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"RfxBql0nOzbViCHEYIgWZueKX+Ef++jYbqPyMAKJruw=", "session"=>{"username"=>"erick", "password"=>"[FILTERED]"}, "commit"=>"Login"}
+  [1m[35mUser Load (2.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."username" = 'erick' LIMIT 1
+Redirected to http://localhost:3000/
+Completed 302 Found in 308ms (ActiveRecord: 2.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 02:37:22 +0800
+Processing by QuestionsController#index as HTML
+  Rendered questions/index.html.erb within layouts/application (1.0ms)
+  [1m[36mUser Load (18.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 1]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 1]]
+Completed 200 OK in 80ms (Views: 60.0ms | ActiveRecord: 18.0ms)
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-25 02:37:22 +0800
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-05-25 02:37:22 +0800
+
+
+Started GET "/assets/questions.css?body=1" for 127.0.0.1 at 2014-05-25 02:37:22 +0800
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-25 02:37:22 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 02:37:22 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 02:37:22 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 02:37:22 +0800
+
+
+Started GET "/assets/questions.js?body=1" for 127.0.0.1 at 2014-05-25 02:37:22 +0800
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-05-25 02:37:22 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 02:37:22 +0800
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 23:42:00 +0800
+  [1m[36mActiveRecord::SchemaMigration Load (1.0ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by QuestionsController#index as HTML
+  Rendered questions/index.html.erb within layouts/application (26.0ms)
+Completed 200 OK in 1071ms (Views: 946.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-25 23:42:04 +0800
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-25 23:42:04 +0800
+
+
+Started GET "/assets/questions.css?body=1" for 127.0.0.1 at 2014-05-25 23:42:04 +0800
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-05-25 23:42:04 +0800
+
+
+Started GET "/assets/sessions.css?body=1" for 127.0.0.1 at 2014-05-25 23:42:04 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-25 23:42:04 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-25 23:42:04 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-25 23:42:05 +0800
+
+
+Started GET "/assets/questions.js?body=1" for 127.0.0.1 at 2014-05-25 23:42:05 +0800
+
+
+Started GET "/assets/sessions.js?body=1" for 127.0.0.1 at 2014-05-25 23:42:05 +0800
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-05-25 23:42:05 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-25 23:42:05 +0800
+
+
+Started GET "/login" for 127.0.0.1 at 2014-05-25 23:42:07 +0800
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (208.0ms)
+Completed 200 OK in 269ms (Views: 266.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/sessions" for 127.0.0.1 at 2014-05-25 23:42:14 +0800
+Processing by SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"Y6aiIWiAwGrjeJCPqdGXZBmQkuEWerSmQrkkYX2fmqU=", "session"=>{"username"=>"erick", "password"=>"[FILTERED]"}, "commit"=>"Login"}
+  [1m[35mUser Load (1.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."username" = 'erick' LIMIT 1
+Redirected to http://localhost:3000/
+Completed 302 Found in 627ms (ActiveRecord: 4.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 23:42:14 +0800
+Processing by QuestionsController#index as HTML
+  Rendered questions/index.html.erb within layouts/application (0.0ms)
+  [1m[36mUser Load (41.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 1]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 1]]
+Completed 200 OK in 115ms (Views: 71.0ms | ActiveRecord: 41.0ms)
+
+
+Started DELETE "/logout" for 127.0.0.1 at 2014-05-25 23:42:20 +0800
+Processing by SessionsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"Y6aiIWiAwGrjeJCPqdGXZBmQkuEWerSmQrkkYX2fmqU="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 5ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 23:42:20 +0800
+Processing by QuestionsController#index as HTML
+  Rendered questions/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 58ms (Views: 55.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/register" for 127.0.0.1 at 2014-05-25 23:42:22 +0800
+Processing by UsersController#new as HTML
+  Rendered common/_form_errors.html.erb (28.0ms)
+  Rendered users/new.html.erb within layouts/application (98.0ms)
+Completed 200 OK in 161ms (Views: 155.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/users" for 127.0.0.1 at 2014-05-25 23:42:31 +0800
+Processing by UsersController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"Y6aiIWiAwGrjeJCPqdGXZBmQkuEWerSmQrkkYX2fmqU=", "user"=>{"username"=>"terry", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]"}, "commit"=>"Register"}
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mUser Exists (2.0ms)[0m  SELECT 1 AS one FROM "users" WHERE LOWER("users"."username") = LOWER('terry') LIMIT 1
+Binary data inserted for `string` type on column `password_digest`
+  [1m[36mSQL (71.0ms)[0m  [1mINSERT INTO "users" ("created_at", "password_digest", "updated_at", "username") VALUES (?, ?, ?, ?)[0m  [["created_at", Sun, 25 May 2014 15:42:31 UTC +00:00], ["password_digest", "$2a$10$iA5N5hYtzy.yxF/g5cdD4uzMnmOIH0kwsPNssxK5K76On5nP7FFXy"], ["updated_at", Sun, 25 May 2014 15:42:31 UTC +00:00], ["username", "terry"]]
+  [1m[35m (115.0ms)[0m  commit transaction
+Redirected to http://localhost:3000/
+Completed 302 Found in 650ms (ActiveRecord: 189.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 23:42:31 +0800
+Processing by QuestionsController#index as HTML
+  Rendered questions/index.html.erb within layouts/application (1.0ms)
+  [1m[36mUser Load (1.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 2]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 2]]
+Completed 200 OK in 59ms (Views: 56.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 23:42:34 +0800
+Processing by QuestionsController#index as HTML
+  Rendered questions/index.html.erb within layouts/application (2.0ms)
+  [1m[36mUser Load (1.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 2]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 2]]
+Completed 200 OK in 77ms (Views: 73.0ms | ActiveRecord: 1.0ms)
+
+
+Started DELETE "/logout" for 127.0.0.1 at 2014-05-25 23:42:36 +0800
+Processing by SessionsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"Y6aiIWiAwGrjeJCPqdGXZBmQkuEWerSmQrkkYX2fmqU="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 5ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-25 23:42:36 +0800
+Processing by QuestionsController#index as HTML
+  Rendered questions/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 57ms (Views: 54.0ms | ActiveRecord: 0.0ms)
+  [1m[36mActiveRecord::SchemaMigration Load (3.0ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Migrating to CreateQuestions (20140525154901)
+  [1m[35m (1.0ms)[0m  begin transaction
+  [1m[36m (8.0ms)[0m  [1mCREATE TABLE "questions" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "user_id" integer, "body" varchar(255), "solved" boolean DEFAULT 'f', "created_at" datetime, "updated_at" datetime) [0m
+  [1m[35m (1.0ms)[0m  CREATE INDEX "index_questions_on_user_id" ON "questions" ("user_id")
+  [1m[36mSQL (1.0ms)[0m  [1mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20140525154901"]]
+  [1m[35m (72.0ms)[0m  commit transaction
+  [1m[36mActiveRecord::SchemaMigration Load (1.0ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36m (4.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mQuestion Load (14.0ms)[0m  SELECT "questions".* FROM "questions"
+  [1m[36m (1.0ms)[0m  [1mrollback transaction[0m
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-26 00:18:14 +0800
+  [1m[36mActiveRecord::SchemaMigration Load (2.0ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by QuestionsController#index as HTML
+  Rendered questions/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 137ms (Views: 70.0ms | ActiveRecord: 4.0ms)
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-26 00:18:15 +0800
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-26 00:18:15 +0800
+
+
+Started GET "/assets/sessions.css?body=1" for 127.0.0.1 at 2014-05-26 00:18:15 +0800
+
+
+Started GET "/assets/questions.css?body=1" for 127.0.0.1 at 2014-05-26 00:18:15 +0800
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-05-26 00:18:15 +0800
+
+
+Started GET "/assets/sessions.js?body=1" for 127.0.0.1 at 2014-05-26 00:18:15 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-26 00:18:15 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-26 00:18:15 +0800
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-05-26 00:18:15 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-26 00:18:15 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-26 00:18:15 +0800
+
+
+Started GET "/assets/questions.js?body=1" for 127.0.0.1 at 2014-05-26 00:18:15 +0800
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-26 00:18:17 +0800
+Processing by QuestionsController#index as HTML
+  Rendered questions/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 64ms (Views: 59.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/login" for 127.0.0.1 at 2014-05-26 00:18:52 +0800
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 52ms (Views: 49.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/sessions" for 127.0.0.1 at 2014-05-26 00:18:57 +0800
+Processing by SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"Y6aiIWiAwGrjeJCPqdGXZBmQkuEWerSmQrkkYX2fmqU=", "session"=>{"username"=>"terry", "password"=>"[FILTERED]"}, "commit"=>"Login"}
+  [1m[35mUser Load (1.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."username" = 'terry' LIMIT 1
+Redirected to http://localhost:3000/
+Completed 302 Found in 399ms (ActiveRecord: 4.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-26 00:18:58 +0800
+Processing by QuestionsController#index as HTML
+  [1m[36mUser Load (1.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 2]]
+ERROR: compiling _app_views_questions__question_form_html_erb___66002587_31108068 RAISED C:/learning/makeitsnappy/app/views/questions/_question_form.html.erb:6: syntax error, unexpected ')', expecting :: or '[' or '.'
+....append=( f.text_field, :body );@output_buffer.safe_append='
+...                               ^
+C:/learning/makeitsnappy/app/views/questions/_question_form.html.erb:10: syntax error, unexpected keyword_end, expecting ')'
+'; end ;@output_buffer.to_s
+      ^
+C:/learning/makeitsnappy/app/views/questions/_question_form.html.erb:11: syntax error, unexpected keyword_ensure, expecting ')'
+C:/learning/makeitsnappy/app/views/questions/_question_form.html.erb:13: syntax error, unexpected keyword_end, expecting ')'
+Function body:           def _app_views_questions__question_form_html_erb___66002587_31108068(local_assigns, output_buffer)
+            _old_virtual_path, @virtual_path = @virtual_path, "questions/_question_form";_old_output_buffer = @output_buffer;;@output_buffer = output_buffer || ActionView::OutputBuffer.new;@output_buffer.append=  form_for(@question) do |f| @output_buffer.safe_append='
+';@output_buffer.safe_append='  ';@output_buffer.append=(  render 'common/form_errors', object: @question );@output_buffer.safe_append='
+';@output_buffer.safe_append='
+  <p>
+    ';@output_buffer.append=( f.label :body, 'Question' );@output_buffer.safe_append='<br />
+    ';@output_buffer.append=( f.text_field, :body );@output_buffer.safe_append='
+';@output_buffer.safe_append='
+    ';@output_buffer.append=( f.submit 'Ask a Question' );@output_buffer.safe_append='
+';@output_buffer.safe_append='  </p>
+'; end ;@output_buffer.to_s
+          ensure
+            @virtual_path, @output_buffer = _old_virtual_path, _old_output_buffer
+          end
+
+Backtrace: C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_view/template.rb:299:in `module_eval'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_view/template.rb:299:in `compile'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_view/template.rb:248:in `block in compile!'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_view/template.rb:236:in `synchronize'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_view/template.rb:236:in `compile!'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_view/template.rb:142:in `block in render'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/activesupport-4.0.2/lib/active_support/notifications.rb:161:in `instrument'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_view/template.rb:141:in `render'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_view/renderer/partial_renderer.rb:306:in `render_partial'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_view/renderer/partial_renderer.rb:279:in `block in render'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_view/renderer/abstract_renderer.rb:38:in `block in instrument'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/activesupport-4.0.2/lib/active_support/notifications.rb:159:in `block in instrument'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/activesupport-4.0.2/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/activesupport-4.0.2/lib/active_support/notifications.rb:159:in `instrument'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_view/renderer/abstract_renderer.rb:38:in `instrument'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_view/renderer/partial_renderer.rb:278:in `render'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_view/renderer/renderer.rb:47:in `render_partial'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_view/helpers/rendering_helper.rb:27:in `render'
+C:/learning/makeitsnappy/app/views/questions/index.html.erb:7:in `_app_views_questions_index_html_erb___810328098_31023372'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_view/template.rb:143:in `block in render'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/activesupport-4.0.2/lib/active_support/notifications.rb:161:in `instrument'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_view/template.rb:141:in `render'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_view/renderer/template_renderer.rb:49:in `block (2 levels) in render_template'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_view/renderer/abstract_renderer.rb:38:in `block in instrument'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/activesupport-4.0.2/lib/active_support/notifications.rb:159:in `block in instrument'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/activesupport-4.0.2/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/activesupport-4.0.2/lib/active_support/notifications.rb:159:in `instrument'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_view/renderer/abstract_renderer.rb:38:in `instrument'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_view/renderer/template_renderer.rb:48:in `block in render_template'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_view/renderer/template_renderer.rb:56:in `render_with_layout'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_view/renderer/template_renderer.rb:47:in `render_template'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_view/renderer/template_renderer.rb:17:in `render'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_view/renderer/renderer.rb:42:in `render_template'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_view/renderer/renderer.rb:23:in `render'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/abstract_controller/rendering.rb:127:in `_render_template'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_controller/metal/streaming.rb:219:in `_render_template'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/abstract_controller/rendering.rb:120:in `render_to_body'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_controller/metal/rendering.rb:33:in `render_to_body'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_controller/metal/renderers.rb:26:in `render_to_body'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/abstract_controller/rendering.rb:97:in `render'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_controller/metal/rendering.rb:16:in `render'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_controller/metal/instrumentation.rb:41:in `block (2 levels) in render'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/activesupport-4.0.2/lib/active_support/core_ext/benchmark.rb:12:in `block in ms'
+C:/Ruby200/lib/ruby/2.0.0/benchmark.rb:296:in `realtime'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/activesupport-4.0.2/lib/active_support/core_ext/benchmark.rb:12:in `ms'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_controller/metal/instrumentation.rb:41:in `block in render'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_controller/metal/instrumentation.rb:84:in `cleanup_view_runtime'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/activerecord-4.0.2/lib/active_record/railties/controller_runtime.rb:25:in `cleanup_view_runtime'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_controller/metal/instrumentation.rb:40:in `render'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_controller/metal/implicit_render.rb:10:in `default_render'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_controller/metal/implicit_render.rb:5:in `send_action'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/abstract_controller/base.rb:189:in `process_action'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_controller/metal/rendering.rb:10:in `process_action'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/abstract_controller/callbacks.rb:18:in `block in process_action'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/activesupport-4.0.2/lib/active_support/callbacks.rb:403:in `_run__462116022__process_action__callbacks'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/activesupport-4.0.2/lib/active_support/callbacks.rb:80:in `run_callbacks'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/abstract_controller/callbacks.rb:17:in `process_action'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_controller/metal/rescue.rb:29:in `process_action'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_controller/metal/instrumentation.rb:31:in `block in process_action'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/activesupport-4.0.2/lib/active_support/notifications.rb:159:in `block in instrument'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/activesupport-4.0.2/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/activesupport-4.0.2/lib/active_support/notifications.rb:159:in `instrument'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_controller/metal/instrumentation.rb:30:in `process_action'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_controller/metal/params_wrapper.rb:245:in `process_action'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/activerecord-4.0.2/lib/active_record/railties/controller_runtime.rb:18:in `process_action'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/abstract_controller/base.rb:136:in `process'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/abstract_controller/rendering.rb:44:in `process'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_controller/metal.rb:195:in `dispatch'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_controller/metal/rack_delegation.rb:13:in `dispatch'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_controller/metal.rb:231:in `block in action'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/routing/route_set.rb:80:in `call'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/routing/route_set.rb:80:in `dispatch'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/routing/route_set.rb:48:in `call'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/journey/router.rb:71:in `block in call'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/journey/router.rb:59:in `each'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/journey/router.rb:59:in `call'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/routing/route_set.rb:680:in `call'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/rack-1.5.2/lib/rack/etag.rb:23:in `call'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/rack-1.5.2/lib/rack/conditionalget.rb:25:in `call'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/rack-1.5.2/lib/rack/head.rb:11:in `call'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/flash.rb:241:in `call'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/rack-1.5.2/lib/rack/session/abstract/id.rb:225:in `context'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/rack-1.5.2/lib/rack/session/abstract/id.rb:220:in `call'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/cookies.rb:486:in `call'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/activerecord-4.0.2/lib/active_record/query_cache.rb:36:in `call'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/activerecord-4.0.2/lib/active_record/connection_adapters/abstract/connection_pool.rb:626:in `call'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/activerecord-4.0.2/lib/active_record/migration.rb:369:in `call'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/activesupport-4.0.2/lib/active_support/callbacks.rb:373:in `_run__316159443__call__callbacks'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/activesupport-4.0.2/lib/active_support/callbacks.rb:80:in `run_callbacks'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/reloader.rb:64:in `call'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/remote_ip.rb:76:in `call'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/railties-4.0.2/lib/rails/rack/logger.rb:38:in `call_app'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/railties-4.0.2/lib/rails/rack/logger.rb:20:in `block in call'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/activesupport-4.0.2/lib/active_support/tagged_logging.rb:67:in `block in tagged'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/activesupport-4.0.2/lib/active_support/tagged_logging.rb:25:in `tagged'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/activesupport-4.0.2/lib/active_support/tagged_logging.rb:67:in `tagged'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/railties-4.0.2/lib/rails/rack/logger.rb:20:in `call'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/request_id.rb:21:in `call'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/rack-1.5.2/lib/rack/methodoverride.rb:21:in `call'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/rack-1.5.2/lib/rack/runtime.rb:17:in `call'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/activesupport-4.0.2/lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/rack-1.5.2/lib/rack/lock.rb:17:in `call'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/static.rb:64:in `call'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/rack-1.5.2/lib/rack/sendfile.rb:112:in `call'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/railties-4.0.2/lib/rails/engine.rb:511:in `call'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/railties-4.0.2/lib/rails/application.rb:97:in `call'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/rack-1.5.2/lib/rack/lock.rb:17:in `call'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/rack-1.5.2/lib/rack/content_length.rb:14:in `call'
+C:/Ruby200/lib/ruby/gems/2.0.0/gems/rack-1.5.2/lib/rack/handler/webrick.rb:60:in `service'
+C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+C:/Ruby200/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+  Rendered questions/_question_form.html.erb (117.0ms)
+  Rendered questions/index.html.erb within layouts/application (151.0ms)
+Completed 500 Internal Server Error in 187ms
+
+ActionView::Template::Error (C:/learning/makeitsnappy/app/views/questions/_question_form.html.erb:6: syntax error, unexpected ')', expecting :: or '[' or '.'
+....append=( f.text_field, :body );@output_buffer.safe_append='
+...                               ^
+C:/learning/makeitsnappy/app/views/questions/_question_form.html.erb:10: syntax error, unexpected keyword_end, expecting ')'
+'; end ;@output_buffer.to_s
+      ^
+C:/learning/makeitsnappy/app/views/questions/_question_form.html.erb:11: syntax error, unexpected keyword_ensure, expecting ')'
+C:/learning/makeitsnappy/app/views/questions/_question_form.html.erb:13: syntax error, unexpected keyword_end, expecting ')'):
+    3: 
+    4:   <p>
+    5:     <%= f.label :body, 'Question' %><br />
+    6:     <%= f.text_field, :body %>
+    7: 
+    8:     <%= f.submit 'Ask a Question' %>
+    9:   </p>
+  app/views/questions/index.html.erb:7:in `_app_views_questions_index_html_erb___810328098_31023372'
+
+
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.erb (6.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (4.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (167.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-26 00:19:20 +0800
+Processing by QuestionsController#index as HTML
+  [1m[35mUser Load (2.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 2]]
+  Rendered common/_form_errors.html.erb (5.0ms)
+  Rendered questions/_question_form.html.erb (73.0ms)
+  Rendered questions/index.html.erb within layouts/application (89.0ms)
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 2]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 2]]
+Completed 200 OK in 163ms (Views: 158.0ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-26 00:19:21 +0800
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-26 00:19:21 +0800
+
+
+Started GET "/assets/questions.css?body=1" for 127.0.0.1 at 2014-05-26 00:19:21 +0800
+
+
+Started GET "/assets/sessions.css?body=1" for 127.0.0.1 at 2014-05-26 00:19:21 +0800
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-05-26 00:19:21 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-26 00:19:21 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-26 00:19:21 +0800
+
+
+Started GET "/assets/sessions.js?body=1" for 127.0.0.1 at 2014-05-26 00:19:22 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-26 00:19:22 +0800
+
+
+Started GET "/assets/questions.js?body=1" for 127.0.0.1 at 2014-05-26 00:19:22 +0800
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-05-26 00:19:22 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-26 00:19:22 +0800
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-26 00:19:25 +0800
+Processing by QuestionsController#index as HTML
+  [1m[36mUser Load (1.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 2]]
+  Rendered common/_form_errors.html.erb (0.0ms)
+  Rendered questions/_question_form.html.erb (17.0ms)
+  Rendered questions/index.html.erb within layouts/application (33.0ms)
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 2]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 2]]
+Completed 200 OK in 182ms (Views: 169.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-26 00:36:31 +0800
+Processing by QuestionsController#index as HTML
+  [1m[35mUser Load (2.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 2]]
+  Rendered common/_form_errors.html.erb (1.0ms)
+  Rendered questions/_question_form.html.erb (47.0ms)
+  Rendered questions/index.html.erb within layouts/application (149.0ms)
+  [1m[36mCACHE (1.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 2]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 2]]
+Completed 200 OK in 320ms (Views: 283.0ms | ActiveRecord: 12.0ms)
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-26 00:36:32 +0800
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-26 00:36:32 +0800
+
+
+Started GET "/assets/questions.css?body=1" for 127.0.0.1 at 2014-05-26 00:36:32 +0800
+
+
+Started GET "/assets/sessions.css?body=1" for 127.0.0.1 at 2014-05-26 00:36:32 +0800
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-05-26 00:36:32 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-26 00:36:32 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-26 00:36:32 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-26 00:36:33 +0800
+
+
+Started GET "/assets/sessions.js?body=1" for 127.0.0.1 at 2014-05-26 00:36:33 +0800
+
+
+Started GET "/assets/questions.js?body=1" for 127.0.0.1 at 2014-05-26 00:36:33 +0800
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-05-26 00:36:33 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-26 00:36:33 +0800
+
+
+Started POST "/questions" for 127.0.0.1 at 2014-05-26 00:36:35 +0800
+Processing by QuestionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"Y6aiIWiAwGrjeJCPqdGXZBmQkuEWerSmQrkkYX2fmqU=", "question"=>{"body"=>""}, "commit"=>"Ask a Question"}
+Completed 500 Internal Server Error in 15ms
+
+NoMethodError (undefined method `loged_in?' for #<QuestionsController:0x2a34cb0>):
+  app/controllers/application_controller.rb:23:in `auth'
+
+
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_source.erb (3.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.erb (5.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (4.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (224.0ms)
+
+
+Started POST "/questions" for 127.0.0.1 at 2014-05-26 00:36:52 +0800
+Processing by QuestionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"Y6aiIWiAwGrjeJCPqdGXZBmQkuEWerSmQrkkYX2fmqU=", "question"=>{"body"=>""}, "commit"=>"Ask a Question"}
+  [1m[36mUser Load (2.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 2]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 2]]
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 2]]
+  Rendered common/_form_errors.html.erb (3.0ms)
+  Rendered questions/_question_form.html.erb (22.0ms)
+  Rendered questions/index.html.erb within layouts/application (54.0ms)
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 2]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 2]]
+Completed 200 OK in 603ms (Views: 140.0ms | ActiveRecord: 11.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-26 00:36:53 +0800
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-26 00:36:53 +0800
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-05-26 00:36:53 +0800
+
+
+Started GET "/assets/sessions.css?body=1" for 127.0.0.1 at 2014-05-26 00:36:53 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-26 00:36:53 +0800
+
+
+Started GET "/assets/questions.css?body=1" for 127.0.0.1 at 2014-05-26 00:36:53 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-26 00:36:53 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-26 00:36:53 +0800
+
+
+Started GET "/assets/questions.js?body=1" for 127.0.0.1 at 2014-05-26 00:36:53 +0800
+
+
+Started GET "/assets/sessions.js?body=1" for 127.0.0.1 at 2014-05-26 00:36:53 +0800
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-05-26 00:36:53 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-26 00:36:53 +0800
+
+
+Started POST "/questions" for 127.0.0.1 at 2014-05-26 00:36:56 +0800
+Processing by QuestionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"Y6aiIWiAwGrjeJCPqdGXZBmQkuEWerSmQrkkYX2fmqU=", "question"=>{"body"=>""}, "commit"=>"Ask a Question"}
+  [1m[35mUser Load (1.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 2]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 2]]
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 2]]
+  Rendered common/_form_errors.html.erb (5.0ms)
+  Rendered questions/_question_form.html.erb (26.0ms)
+  Rendered questions/index.html.erb within layouts/application (52.0ms)
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 2]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 2]]
+Completed 200 OK in 207ms (Views: 181.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-26 00:36:56 +0800
+
+
+Started GET "/assets/questions.css?body=1" for 127.0.0.1 at 2014-05-26 00:36:56 +0800
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-05-26 00:36:56 +0800
+
+
+Started GET "/assets/sessions.css?body=1" for 127.0.0.1 at 2014-05-26 00:36:56 +0800
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-26 00:36:56 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-26 00:36:56 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-26 00:36:56 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-26 00:36:56 +0800
+
+
+Started GET "/assets/questions.js?body=1" for 127.0.0.1 at 2014-05-26 00:36:57 +0800
+
+
+Started GET "/assets/sessions.js?body=1" for 127.0.0.1 at 2014-05-26 00:36:57 +0800
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-05-26 00:36:57 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-26 00:36:57 +0800
+
+
+Started POST "/questions" for 127.0.0.1 at 2014-05-26 00:37:00 +0800
+Processing by QuestionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"Y6aiIWiAwGrjeJCPqdGXZBmQkuEWerSmQrkkYX2fmqU=", "question"=>{"body"=>"12"}, "commit"=>"Ask a Question"}
+  [1m[36mUser Load (1.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 2]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 2]]
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 2]]
+  Rendered common/_form_errors.html.erb (1.0ms)
+  Rendered questions/_question_form.html.erb (12.0ms)
+  Rendered questions/index.html.erb within layouts/application (24.0ms)
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 2]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 2]]
+Completed 200 OK in 174ms (Views: 140.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-26 00:37:00 +0800
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-26 00:37:00 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-26 00:37:01 +0800
+
+
+Started GET "/assets/sessions.css?body=1" for 127.0.0.1 at 2014-05-26 00:37:01 +0800
+
+
+Started GET "/assets/questions.css?body=1" for 127.0.0.1 at 2014-05-26 00:37:01 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-26 00:37:01 +0800
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-05-26 00:37:01 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-26 00:37:01 +0800
+
+
+Started GET "/assets/questions.js?body=1" for 127.0.0.1 at 2014-05-26 00:37:01 +0800
+
+
+Started GET "/assets/sessions.js?body=1" for 127.0.0.1 at 2014-05-26 00:37:01 +0800
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-05-26 00:37:01 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-26 00:37:01 +0800
+
+
+Started POST "/questions" for 127.0.0.1 at 2014-05-26 00:37:17 +0800
+Processing by QuestionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"Y6aiIWiAwGrjeJCPqdGXZBmQkuEWerSmQrkkYX2fmqU=", "question"=>{"body"=>"What is your favorite book?"}, "commit"=>"Ask a Question"}
+  [1m[35mUser Load (2.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 2]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 2]]
+  [1m[35m (1.0ms)[0m  begin transaction
+  [1m[36mSQL (13.0ms)[0m  [1mINSERT INTO "questions" ("body", "created_at", "updated_at", "user_id") VALUES (?, ?, ?, ?)[0m  [["body", "What is your favorite book?"], ["created_at", Sun, 25 May 2014 16:37:17 UTC +00:00], ["updated_at", Sun, 25 May 2014 16:37:17 UTC +00:00], ["user_id", 2]]
+  [1m[35m (129.0ms)[0m  commit transaction
+Redirected to http://localhost:3000/
+Completed 302 Found in 183ms (ActiveRecord: 145.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-26 00:37:17 +0800
+Processing by QuestionsController#index as HTML
+  [1m[36mUser Load (1.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 2]]
+  Rendered common/_form_errors.html.erb (0.0ms)
+  Rendered questions/_question_form.html.erb (16.0ms)
+  Rendered questions/index.html.erb within layouts/application (36.0ms)
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 2]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 2]]
+Completed 200 OK in 112ms (Views: 106.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-26 00:37:17 +0800
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-05-26 00:37:17 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-26 00:37:17 +0800
+
+
+Started GET "/assets/sessions.css?body=1" for 127.0.0.1 at 2014-05-26 00:37:17 +0800
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-26 00:37:17 +0800
+
+
+Started GET "/assets/questions.css?body=1" for 127.0.0.1 at 2014-05-26 00:37:17 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-26 00:37:17 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-26 00:37:17 +0800
+
+
+Started GET "/assets/questions.js?body=1" for 127.0.0.1 at 2014-05-26 00:37:18 +0800
+
+
+Started GET "/assets/sessions.js?body=1" for 127.0.0.1 at 2014-05-26 00:37:18 +0800
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-05-26 00:37:18 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-26 00:37:18 +0800
+  [1m[36mQuestion Load (1.0ms)[0m  [1mSELECT "questions".* FROM "questions" ORDER BY "questions"."id" ASC LIMIT 1[0m
+  [1m[35mQuestion Load (1.0ms)[0m  SELECT "questions".* FROM "questions"
+  [1m[36mQuestion Load (1.0ms)[0m  [1mSELECT "questions".* FROM "questions" ORDER BY "questions"."id" ASC LIMIT 1[0m
+
+
+Started DELETE "/logout" for 127.0.0.1 at 2014-05-26 00:38:40 +0800
+Processing by SessionsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"Y6aiIWiAwGrjeJCPqdGXZBmQkuEWerSmQrkkYX2fmqU="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 9ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-26 00:38:40 +0800
+Processing by QuestionsController#index as HTML
+  Rendered questions/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 64ms (Views: 61.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-26 00:38:41 +0800
+
+
+Started GET "/assets/questions.css?body=1" for 127.0.0.1 at 2014-05-26 00:38:41 +0800
+
+
+Started GET "/assets/sessions.css?body=1" for 127.0.0.1 at 2014-05-26 00:38:41 +0800
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-26 00:38:41 +0800
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-05-26 00:38:41 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-26 00:38:41 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-26 00:38:41 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-26 00:38:41 +0800
+
+
+Started GET "/assets/questions.js?body=1" for 127.0.0.1 at 2014-05-26 00:38:41 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-26 00:38:41 +0800
+
+
+Started GET "/assets/sessions.js?body=1" for 127.0.0.1 at 2014-05-26 00:38:41 +0800
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-05-26 00:38:41 +0800
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-26 00:38:43 +0800
+Processing by QuestionsController#index as HTML
+  Rendered questions/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 66ms (Views: 64.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-26 00:38:46 +0800
+Processing by QuestionsController#index as HTML
+  Rendered questions/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 52ms (Views: 49.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/questions" for 127.0.0.1 at 2014-05-26 00:40:07 +0800
+Processing by QuestionsController#create as */*
+  Parameters: {"what is a good site?"=>nil}
+Can't verify CSRF token authenticity
+Completed 422 Unprocessable Entity in 2ms
+
+ActionController::InvalidAuthenticityToken (ActionController::InvalidAuthenticityToken):
+  actionpack (4.0.2) lib/action_controller/metal/request_forgery_protection.rb:163:in `handle_unverified_request'
+  actionpack (4.0.2) lib/action_controller/metal/request_forgery_protection.rb:170:in `handle_unverified_request'
+  actionpack (4.0.2) lib/action_controller/metal/request_forgery_protection.rb:177:in `verify_authenticity_token'
+  activesupport (4.0.2) lib/active_support/callbacks.rb:377:in `_run__462116022__process_action__callbacks'
+  activesupport (4.0.2) lib/active_support/callbacks.rb:80:in `run_callbacks'
+  actionpack (4.0.2) lib/abstract_controller/callbacks.rb:17:in `process_action'
+  actionpack (4.0.2) lib/action_controller/metal/rescue.rb:29:in `process_action'
+  actionpack (4.0.2) lib/action_controller/metal/instrumentation.rb:31:in `block in process_action'
+  activesupport (4.0.2) lib/active_support/notifications.rb:159:in `block in instrument'
+  activesupport (4.0.2) lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+  activesupport (4.0.2) lib/active_support/notifications.rb:159:in `instrument'
+  actionpack (4.0.2) lib/action_controller/metal/instrumentation.rb:30:in `process_action'
+  actionpack (4.0.2) lib/action_controller/metal/params_wrapper.rb:245:in `process_action'
+  activerecord (4.0.2) lib/active_record/railties/controller_runtime.rb:18:in `process_action'
+  actionpack (4.0.2) lib/abstract_controller/base.rb:136:in `process'
+  actionpack (4.0.2) lib/abstract_controller/rendering.rb:44:in `process'
+  actionpack (4.0.2) lib/action_controller/metal.rb:195:in `dispatch'
+  actionpack (4.0.2) lib/action_controller/metal/rack_delegation.rb:13:in `dispatch'
+  actionpack (4.0.2) lib/action_controller/metal.rb:231:in `block in action'
+  actionpack (4.0.2) lib/action_dispatch/routing/route_set.rb:80:in `call'
+  actionpack (4.0.2) lib/action_dispatch/routing/route_set.rb:80:in `dispatch'
+  actionpack (4.0.2) lib/action_dispatch/routing/route_set.rb:48:in `call'
+  actionpack (4.0.2) lib/action_dispatch/journey/router.rb:71:in `block in call'
+  actionpack (4.0.2) lib/action_dispatch/journey/router.rb:59:in `each'
+  actionpack (4.0.2) lib/action_dispatch/journey/router.rb:59:in `call'
+  actionpack (4.0.2) lib/action_dispatch/routing/route_set.rb:680:in `call'
+  rack (1.5.2) lib/rack/etag.rb:23:in `call'
+  rack (1.5.2) lib/rack/conditionalget.rb:35:in `call'
+  rack (1.5.2) lib/rack/head.rb:11:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/flash.rb:241:in `call'
+  rack (1.5.2) lib/rack/session/abstract/id.rb:225:in `context'
+  rack (1.5.2) lib/rack/session/abstract/id.rb:220:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/cookies.rb:486:in `call'
+  activerecord (4.0.2) lib/active_record/query_cache.rb:36:in `call'
+  activerecord (4.0.2) lib/active_record/connection_adapters/abstract/connection_pool.rb:626:in `call'
+  activerecord (4.0.2) lib/active_record/migration.rb:369:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.0.2) lib/active_support/callbacks.rb:373:in `_run__316159443__call__callbacks'
+  activesupport (4.0.2) lib/active_support/callbacks.rb:80:in `run_callbacks'
+  actionpack (4.0.2) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/reloader.rb:64:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/remote_ip.rb:76:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.2) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.2) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:67:in `block in tagged'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:25:in `tagged'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:67:in `tagged'
+  railties (4.0.2) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.2) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.2) lib/rails/engine.rb:511:in `call'
+  railties (4.0.2) lib/rails/application.rb:97:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_source.erb (2.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.erb (4.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (4.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (154.0ms)
+
+
+Started POST "/questions" for 127.0.0.1 at 2014-05-26 00:41:11 +0800
+Processing by QuestionsController#create as */*
+  Parameters: {"what is a good site?"=>nil}
+Can't verify CSRF token authenticity
+Completed 422 Unprocessable Entity in 3ms
+
+ActionController::InvalidAuthenticityToken (ActionController::InvalidAuthenticityToken):
+  actionpack (4.0.2) lib/action_controller/metal/request_forgery_protection.rb:163:in `handle_unverified_request'
+  actionpack (4.0.2) lib/action_controller/metal/request_forgery_protection.rb:170:in `handle_unverified_request'
+  actionpack (4.0.2) lib/action_controller/metal/request_forgery_protection.rb:177:in `verify_authenticity_token'
+  activesupport (4.0.2) lib/active_support/callbacks.rb:377:in `_run__462116022__process_action__callbacks'
+  activesupport (4.0.2) lib/active_support/callbacks.rb:80:in `run_callbacks'
+  actionpack (4.0.2) lib/abstract_controller/callbacks.rb:17:in `process_action'
+  actionpack (4.0.2) lib/action_controller/metal/rescue.rb:29:in `process_action'
+  actionpack (4.0.2) lib/action_controller/metal/instrumentation.rb:31:in `block in process_action'
+  activesupport (4.0.2) lib/active_support/notifications.rb:159:in `block in instrument'
+  activesupport (4.0.2) lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+  activesupport (4.0.2) lib/active_support/notifications.rb:159:in `instrument'
+  actionpack (4.0.2) lib/action_controller/metal/instrumentation.rb:30:in `process_action'
+  actionpack (4.0.2) lib/action_controller/metal/params_wrapper.rb:245:in `process_action'
+  activerecord (4.0.2) lib/active_record/railties/controller_runtime.rb:18:in `process_action'
+  actionpack (4.0.2) lib/abstract_controller/base.rb:136:in `process'
+  actionpack (4.0.2) lib/abstract_controller/rendering.rb:44:in `process'
+  actionpack (4.0.2) lib/action_controller/metal.rb:195:in `dispatch'
+  actionpack (4.0.2) lib/action_controller/metal/rack_delegation.rb:13:in `dispatch'
+  actionpack (4.0.2) lib/action_controller/metal.rb:231:in `block in action'
+  actionpack (4.0.2) lib/action_dispatch/routing/route_set.rb:80:in `call'
+  actionpack (4.0.2) lib/action_dispatch/routing/route_set.rb:80:in `dispatch'
+  actionpack (4.0.2) lib/action_dispatch/routing/route_set.rb:48:in `call'
+  actionpack (4.0.2) lib/action_dispatch/journey/router.rb:71:in `block in call'
+  actionpack (4.0.2) lib/action_dispatch/journey/router.rb:59:in `each'
+  actionpack (4.0.2) lib/action_dispatch/journey/router.rb:59:in `call'
+  actionpack (4.0.2) lib/action_dispatch/routing/route_set.rb:680:in `call'
+  rack (1.5.2) lib/rack/etag.rb:23:in `call'
+  rack (1.5.2) lib/rack/conditionalget.rb:35:in `call'
+  rack (1.5.2) lib/rack/head.rb:11:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/flash.rb:241:in `call'
+  rack (1.5.2) lib/rack/session/abstract/id.rb:225:in `context'
+  rack (1.5.2) lib/rack/session/abstract/id.rb:220:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/cookies.rb:486:in `call'
+  activerecord (4.0.2) lib/active_record/query_cache.rb:36:in `call'
+  activerecord (4.0.2) lib/active_record/connection_adapters/abstract/connection_pool.rb:626:in `call'
+  activerecord (4.0.2) lib/active_record/migration.rb:369:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.0.2) lib/active_support/callbacks.rb:373:in `_run__316159443__call__callbacks'
+  activesupport (4.0.2) lib/active_support/callbacks.rb:80:in `run_callbacks'
+  actionpack (4.0.2) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/reloader.rb:64:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/remote_ip.rb:76:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.2) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.2) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:67:in `block in tagged'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:25:in `tagged'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:67:in `tagged'
+  railties (4.0.2) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.2) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.2) lib/rails/engine.rb:511:in `call'
+  railties (4.0.2) lib/rails/application.rb:97:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_source.erb (2.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.erb (5.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (4.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (155.0ms)
+
+
+Started POST "/questions" for 127.0.0.1 at 2014-05-26 00:41:44 +0800
+Processing by QuestionsController#create as */*
+  Parameters: {"what is a good site?"=>nil}
+Can't verify CSRF token authenticity
+Completed 422 Unprocessable Entity in 3ms
+
+ActionController::InvalidAuthenticityToken (ActionController::InvalidAuthenticityToken):
+  actionpack (4.0.2) lib/action_controller/metal/request_forgery_protection.rb:163:in `handle_unverified_request'
+  actionpack (4.0.2) lib/action_controller/metal/request_forgery_protection.rb:170:in `handle_unverified_request'
+  actionpack (4.0.2) lib/action_controller/metal/request_forgery_protection.rb:177:in `verify_authenticity_token'
+  activesupport (4.0.2) lib/active_support/callbacks.rb:377:in `_run__462116022__process_action__callbacks'
+  activesupport (4.0.2) lib/active_support/callbacks.rb:80:in `run_callbacks'
+  actionpack (4.0.2) lib/abstract_controller/callbacks.rb:17:in `process_action'
+  actionpack (4.0.2) lib/action_controller/metal/rescue.rb:29:in `process_action'
+  actionpack (4.0.2) lib/action_controller/metal/instrumentation.rb:31:in `block in process_action'
+  activesupport (4.0.2) lib/active_support/notifications.rb:159:in `block in instrument'
+  activesupport (4.0.2) lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+  activesupport (4.0.2) lib/active_support/notifications.rb:159:in `instrument'
+  actionpack (4.0.2) lib/action_controller/metal/instrumentation.rb:30:in `process_action'
+  actionpack (4.0.2) lib/action_controller/metal/params_wrapper.rb:245:in `process_action'
+  activerecord (4.0.2) lib/active_record/railties/controller_runtime.rb:18:in `process_action'
+  actionpack (4.0.2) lib/abstract_controller/base.rb:136:in `process'
+  actionpack (4.0.2) lib/abstract_controller/rendering.rb:44:in `process'
+  actionpack (4.0.2) lib/action_controller/metal.rb:195:in `dispatch'
+  actionpack (4.0.2) lib/action_controller/metal/rack_delegation.rb:13:in `dispatch'
+  actionpack (4.0.2) lib/action_controller/metal.rb:231:in `block in action'
+  actionpack (4.0.2) lib/action_dispatch/routing/route_set.rb:80:in `call'
+  actionpack (4.0.2) lib/action_dispatch/routing/route_set.rb:80:in `dispatch'
+  actionpack (4.0.2) lib/action_dispatch/routing/route_set.rb:48:in `call'
+  actionpack (4.0.2) lib/action_dispatch/journey/router.rb:71:in `block in call'
+  actionpack (4.0.2) lib/action_dispatch/journey/router.rb:59:in `each'
+  actionpack (4.0.2) lib/action_dispatch/journey/router.rb:59:in `call'
+  actionpack (4.0.2) lib/action_dispatch/routing/route_set.rb:680:in `call'
+  rack (1.5.2) lib/rack/etag.rb:23:in `call'
+  rack (1.5.2) lib/rack/conditionalget.rb:35:in `call'
+  rack (1.5.2) lib/rack/head.rb:11:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/flash.rb:241:in `call'
+  rack (1.5.2) lib/rack/session/abstract/id.rb:225:in `context'
+  rack (1.5.2) lib/rack/session/abstract/id.rb:220:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/cookies.rb:486:in `call'
+  activerecord (4.0.2) lib/active_record/query_cache.rb:36:in `call'
+  activerecord (4.0.2) lib/active_record/connection_adapters/abstract/connection_pool.rb:626:in `call'
+  activerecord (4.0.2) lib/active_record/migration.rb:369:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.0.2) lib/active_support/callbacks.rb:373:in `_run__316159443__call__callbacks'
+  activesupport (4.0.2) lib/active_support/callbacks.rb:80:in `run_callbacks'
+  actionpack (4.0.2) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/reloader.rb:64:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/remote_ip.rb:76:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.2) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.2) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:67:in `block in tagged'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:25:in `tagged'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:67:in `tagged'
+  railties (4.0.2) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.2) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.2) lib/rails/engine.rb:511:in `call'
+  railties (4.0.2) lib/rails/application.rb:97:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_source.erb (2.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.erb (5.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (5.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (144.0ms)
+  [1m[36mQuestion Load (1.0ms)[0m  [1mSELECT "questions".* FROM "questions" ORDER BY "questions"."id" ASC LIMIT 1[0m
+  [1m[35m (1.0ms)[0m  SELECT COUNT(*) FROM "questions"
+  [1m[36m (4.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (1.0ms)[0m  rollback transaction
+  [1m[36m (2.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mQuestion Load (26.0ms)[0m  SELECT "questions".* FROM "questions"
+  [1m[36mQuestion Load (1.0ms)[0m  [1mSELECT "questions".* FROM "questions"[0m
+  [1m[35mQuestion Load (1.0ms)[0m  SELECT "questions".* FROM "questions"
+  [1m[36mUser Load (0.0ms)[0m  [1mSELECT "users".* FROM "users"[0m
+  [1m[35mUser Load (1.0ms)[0m  SELECT "users".* FROM "users"
+  [1m[36mUser Load (0.0ms)[0m  [1mSELECT "users".* FROM "users"[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-26 23:55:18 +0800
+  [1m[36mActiveRecord::SchemaMigration Load (1.0ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by QuestionsController#index as HTML
+DEPRECATION WARNING: #apply_finder_options is deprecated. (called from unsolved at C:/learning/makeitsnappy/app/models/question.rb:8)
+  [1m[35m (17.0ms)[0m  SELECT COUNT(*) FROM "questions" WHERE "questions"."solved" = 'f'
+  [1m[36mQuestion Load (1.0ms)[0m  [1mSELECT "questions".* FROM "questions" WHERE "questions"."solved" = 'f' ORDER BY created_at DESC LIMIT 3 OFFSET 0[0m
+  [1m[35mUser Load (1.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT 1  [["id", 2]]
+  Rendered questions/_question.html.erb (439.0ms)
+  Rendered questions/index.html.erb within layouts/application (631.0ms)
+Completed 200 OK in 1531ms (Views: 1279.1ms | ActiveRecord: 25.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-26 23:55:21 +0800
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-26 23:55:21 +0800
+
+
+Started GET "/assets/questions.css?body=1" for 127.0.0.1 at 2014-05-26 23:55:21 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-26 23:55:22 +0800
+
+
+Started GET "/assets/sessions.css?body=1" for 127.0.0.1 at 2014-05-26 23:55:22 +0800
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-05-26 23:55:22 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-26 23:55:22 +0800
+
+
+Started GET "/assets/questions.js?body=1" for 127.0.0.1 at 2014-05-26 23:55:22 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-26 23:55:22 +0800
+
+
+Started GET "/assets/sessions.js?body=1" for 127.0.0.1 at 2014-05-26 23:55:22 +0800
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-05-26 23:55:22 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-26 23:55:22 +0800
+
+
+Started GET "/login" for 127.0.0.1 at 2014-05-26 23:55:27 +0800
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (190.0ms)
+Completed 200 OK in 256ms (Views: 251.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/sessions" for 127.0.0.1 at 2014-05-26 23:55:39 +0800
+Processing by SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"W97beT02K27BYSkWxAooFKvGDMB0/45CEYAnLl3/LRc=", "session"=>{"username"=>"erick", "password"=>"[FILTERED]"}, "commit"=>"Login"}
+  [1m[36mUser Load (2.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."username" = 'erick' LIMIT 1[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 335ms (ActiveRecord: 2.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-26 23:55:40 +0800
+Processing by QuestionsController#index as HTML
+DEPRECATION WARNING: #apply_finder_options is deprecated. (called from unsolved at C:/learning/makeitsnappy/app/models/question.rb:8)
+  [1m[35mUser Load (1.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 1]]
+  Rendered common/_form_errors.html.erb (20.0ms)
+  Rendered questions/_question_form.html.erb (38.0ms)
+  [1m[36m (2.0ms)[0m  [1mSELECT COUNT(*) FROM "questions" WHERE "questions"."solved" = 'f'[0m
+  [1m[35mQuestion Load (2.0ms)[0m  SELECT "questions".* FROM "questions" WHERE "questions"."solved" = 'f' ORDER BY created_at DESC LIMIT 3 OFFSET 0
+  [1m[36mUser Load (2.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 2]]
+  Rendered questions/_question.html.erb (11.0ms)
+  Rendered questions/index.html.erb within layouts/application (94.0ms)
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 1]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 1]]
+Completed 200 OK in 187ms (Views: 161.0ms | ActiveRecord: 7.0ms)
+
+
+Started GET "/assets/questions.css?body=1" for 127.0.0.1 at 2014-05-26 23:55:40 +0800
+
+
+Started GET "/assets/sessions.css?body=1" for 127.0.0.1 at 2014-05-26 23:55:40 +0800
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-05-26 23:55:40 +0800
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-26 23:55:40 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-26 23:55:40 +0800
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-26 23:55:40 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-26 23:55:40 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-26 23:55:40 +0800
+
+
+Started GET "/assets/questions.js?body=1" for 127.0.0.1 at 2014-05-26 23:55:40 +0800
+
+
+Started GET "/assets/sessions.js?body=1" for 127.0.0.1 at 2014-05-26 23:55:40 +0800
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-05-26 23:55:40 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-26 23:55:40 +0800
+
+
+Started POST "/questions" for 127.0.0.1 at 2014-05-26 23:55:52 +0800
+Processing by QuestionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"W97beT02K27BYSkWxAooFKvGDMB0/45CEYAnLl3/LRc=", "question"=>{"body"=>"What is your favorite sword?"}, "commit"=>"Ask a Question"}
+  [1m[35mUser Load (1.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 1]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 1]]
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (27.0ms)[0m  [1mINSERT INTO "questions" ("body", "created_at", "updated_at", "user_id") VALUES (?, ?, ?, ?)[0m  [["body", "What is your favorite sword?"], ["created_at", Mon, 26 May 2014 15:55:52 UTC +00:00], ["updated_at", Mon, 26 May 2014 15:55:52 UTC +00:00], ["user_id", 1]]
+  [1m[35m (103.0ms)[0m  commit transaction
+Redirected to http://localhost:3000/
+Completed 302 Found in 278ms (ActiveRecord: 131.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-26 23:55:53 +0800
+Processing by QuestionsController#index as HTML
+DEPRECATION WARNING: #apply_finder_options is deprecated. (called from unsolved at C:/learning/makeitsnappy/app/models/question.rb:8)
+  [1m[36mUser Load (1.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 1]]
+  Rendered common/_form_errors.html.erb (0.0ms)
+  Rendered questions/_question_form.html.erb (21.0ms)
+  [1m[35m (2.0ms)[0m  SELECT COUNT(*) FROM "questions" WHERE "questions"."solved" = 'f'
+  [1m[36mQuestion Load (1.0ms)[0m  [1mSELECT "questions".* FROM "questions" WHERE "questions"."solved" = 'f' ORDER BY created_at DESC LIMIT 3 OFFSET 0[0m
+  [1m[35mUser Load (2.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT 1  [["id", 1]]
+  [1m[36mUser Load (1.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 2]]
+  Rendered questions/_question.html.erb (24.0ms)
+  Rendered questions/index.html.erb within layouts/application (86.0ms)
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 1]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 1]]
+Completed 200 OK in 165ms (Views: 150.0ms | ActiveRecord: 7.0ms)
+
+
+Started GET "/assets/questions.css?body=1" for 127.0.0.1 at 2014-05-26 23:55:53 +0800
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-05-26 23:55:53 +0800
+
+
+Started GET "/assets/sessions.css?body=1" for 127.0.0.1 at 2014-05-26 23:55:53 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-26 23:55:53 +0800
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-26 23:55:53 +0800
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-26 23:55:53 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-26 23:55:53 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-26 23:55:53 +0800
+
+
+Started GET "/assets/questions.js?body=1" for 127.0.0.1 at 2014-05-26 23:55:53 +0800
+
+
+Started GET "/assets/sessions.js?body=1" for 127.0.0.1 at 2014-05-26 23:55:54 +0800
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-05-26 23:55:54 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-26 23:55:54 +0800
+
+
+Started POST "/questions" for 127.0.0.1 at 2014-05-26 23:56:43 +0800
+Processing by QuestionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"W97beT02K27BYSkWxAooFKvGDMB0/45CEYAnLl3/LRc=", "question"=>{"body"=>"What is the fastest, strongest, and most popular robot in the world? You know... You know it don't ya?"}, "commit"=>"Ask a Question"}
+  [1m[35mUser Load (1.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 1]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 1]]
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (4.0ms)[0m  [1mINSERT INTO "questions" ("body", "created_at", "updated_at", "user_id") VALUES (?, ?, ?, ?)[0m  [["body", "What is the fastest, strongest, and most popular robot in the world? You know... You know it don't ya?"], ["created_at", Mon, 26 May 2014 15:56:43 UTC +00:00], ["updated_at", Mon, 26 May 2014 15:56:43 UTC +00:00], ["user_id", 1]]
+  [1m[35m (88.0ms)[0m  commit transaction
+Redirected to http://localhost:3000/
+Completed 302 Found in 136ms (ActiveRecord: 93.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-26 23:56:43 +0800
+Processing by QuestionsController#index as HTML
+DEPRECATION WARNING: #apply_finder_options is deprecated. (called from unsolved at C:/learning/makeitsnappy/app/models/question.rb:8)
+  [1m[36mUser Load (2.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 1]]
+  Rendered common/_form_errors.html.erb (1.0ms)
+  Rendered questions/_question_form.html.erb (12.0ms)
+  [1m[35m (1.0ms)[0m  SELECT COUNT(*) FROM "questions" WHERE "questions"."solved" = 'f'
+  [1m[36mQuestion Load (2.0ms)[0m  [1mSELECT "questions".* FROM "questions" WHERE "questions"."solved" = 'f' ORDER BY created_at DESC LIMIT 3 OFFSET 0[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT COUNT(*) FROM "questions" WHERE "questions"."solved" = 'f'
+  [1m[36mUser Load (1.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 1]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT 1  [["id", 1]]
+  [1m[36mUser Load (1.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 2]]
+  Rendered questions/_question.html.erb (25.0ms)
+  Rendered questions/index.html.erb within layouts/application (92.0ms)
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 1]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 1]]
+Completed 200 OK in 166ms (Views: 152.0ms | ActiveRecord: 7.0ms)
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-26 23:56:43 +0800
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-26 23:56:44 +0800
+
+
+Started GET "/assets/questions.css?body=1" for 127.0.0.1 at 2014-05-26 23:56:44 +0800
+
+
+Started GET "/assets/sessions.css?body=1" for 127.0.0.1 at 2014-05-26 23:56:44 +0800
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-05-26 23:56:44 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-26 23:56:44 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-26 23:56:44 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-26 23:56:44 +0800
+
+
+Started GET "/assets/questions.js?body=1" for 127.0.0.1 at 2014-05-26 23:56:44 +0800
+
+
+Started GET "/assets/sessions.js?body=1" for 127.0.0.1 at 2014-05-26 23:56:44 +0800
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-05-26 23:56:44 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-26 23:56:44 +0800
+  [1m[36mActiveRecord::SchemaMigration Load (1.0ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35mActiveRecord::SchemaMigration Load (2.0ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+Migrating to CreateQuestions (20140525154901)
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (18.0ms)[0m  DROP TABLE "questions"
+  [1m[36mSQL (1.0ms)[0m  [1mDELETE FROM "schema_migrations" WHERE "schema_migrations"."version" = '20140525154901'[0m
+  [1m[35m (152.0ms)[0m  commit transaction
+  [1m[36mActiveRecord::SchemaMigration Load (1.0ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::SchemaMigration Load (1.0ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Migrating to CreateQuestions (20140525154901)
+  [1m[35m (1.0ms)[0m  begin transaction
+  [1m[36m (4.0ms)[0m  [1mCREATE TABLE "questions" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "user_id" integer, "body" varchar(255), "solved" boolean DEFAULT 'f', "created_at" datetime, "updated_at" datetime) [0m
+  [1m[35m (1.0ms)[0m  CREATE INDEX "index_questions_on_user_id" ON "questions" ("user_id")
+  [1m[36mSQL (1.0ms)[0m  [1mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20140525154901"]]
+  [1m[35m (93.0ms)[0m  commit transaction
+  [1m[36mActiveRecord::SchemaMigration Load (1.0ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-27 00:00:03 +0800
+  [1m[36mActiveRecord::SchemaMigration Load (2.0ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by QuestionsController#index as HTML
+DEPRECATION WARNING: #apply_finder_options is deprecated. (called from unsolved at C:/learning/makeitsnappy/app/models/question.rb:8)
+  [1m[35mUser Load (25.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 1]]
+  Rendered common/_form_errors.html.erb (19.0ms)
+  Rendered questions/_question_form.html.erb (113.0ms)
+  [1m[36m (1.0ms)[0m  [1mSELECT COUNT(*) FROM "questions" WHERE "questions"."solved" = 'f'[0m
+  Rendered questions/index.html.erb within layouts/application (342.0ms)
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 1]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 1]]
+Completed 200 OK in 1014ms (Views: 822.0ms | ActiveRecord: 33.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-27 00:00:05 +0800
+
+
+Started GET "/assets/questions.css?body=1" for 127.0.0.1 at 2014-05-27 00:00:05 +0800
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-27 00:00:05 +0800
+
+
+Started GET "/assets/sessions.css?body=1" for 127.0.0.1 at 2014-05-27 00:00:05 +0800
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-05-27 00:00:06 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-27 00:00:06 +0800
+
+
+Started GET "/assets/sessions.js?body=1" for 127.0.0.1 at 2014-05-27 00:00:06 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-27 00:00:06 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-27 00:00:06 +0800
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-05-27 00:00:06 +0800
+
+
+Started GET "/assets/questions.js?body=1" for 127.0.0.1 at 2014-05-27 00:00:06 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-27 00:00:06 +0800
+
+
+Started POST "/questions" for 127.0.0.1 at 2014-05-27 00:00:14 +0800
+Processing by QuestionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"W97beT02K27BYSkWxAooFKvGDMB0/45CEYAnLl3/LRc=", "question"=>{"body"=>"What is a good sword?"}, "commit"=>"Ask a Question"}
+  [1m[35mUser Load (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 1]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 1]]
+  [1m[35m (1.0ms)[0m  begin transaction
+  [1m[36mSQL (33.0ms)[0m  [1mINSERT INTO "questions" ("body", "created_at", "updated_at", "user_id") VALUES (?, ?, ?, ?)[0m  [["body", "What is a good sword?"], ["created_at", Mon, 26 May 2014 16:00:14 UTC +00:00], ["updated_at", Mon, 26 May 2014 16:00:14 UTC +00:00], ["user_id", 1]]
+  [1m[35m (78.0ms)[0m  commit transaction
+Redirected to http://localhost:3000/
+Completed 302 Found in 330ms (ActiveRecord: 112.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-27 00:00:15 +0800
+Processing by QuestionsController#index as HTML
+DEPRECATION WARNING: #apply_finder_options is deprecated. (called from unsolved at C:/learning/makeitsnappy/app/models/question.rb:8)
+  [1m[36mUser Load (1.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 1]]
+  Rendered common/_form_errors.html.erb (0.0ms)
+  Rendered questions/_question_form.html.erb (91.0ms)
+  [1m[35m (1.0ms)[0m  SELECT COUNT(*) FROM "questions" WHERE "questions"."solved" = 'f'
+  [1m[36mQuestion Load (2.0ms)[0m  [1mSELECT "questions".* FROM "questions" WHERE "questions"."solved" = 'f' ORDER BY created_at DESC LIMIT 3 OFFSET 0[0m
+  [1m[35mUser Load (1.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT 1  [["id", 1]]
+  Rendered questions/_question.html.erb (40.0ms)
+  Rendered questions/index.html.erb within layouts/application (173.0ms)
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 1]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 1]]
+Completed 200 OK in 244ms (Views: 231.0ms | ActiveRecord: 5.0ms)
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-05-27 00:00:15 +0800
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-27 00:00:15 +0800
+
+
+Started GET "/assets/sessions.css?body=1" for 127.0.0.1 at 2014-05-27 00:00:15 +0800
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-27 00:00:15 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-27 00:00:15 +0800
+
+
+Started GET "/assets/questions.css?body=1" for 127.0.0.1 at 2014-05-27 00:00:15 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-27 00:00:15 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-27 00:00:15 +0800
+
+
+Started GET "/assets/questions.js?body=1" for 127.0.0.1 at 2014-05-27 00:00:15 +0800
+
+
+Started GET "/assets/sessions.js?body=1" for 127.0.0.1 at 2014-05-27 00:00:15 +0800
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-05-27 00:00:15 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-27 00:00:15 +0800
+
+
+Started POST "/questions" for 127.0.0.1 at 2014-05-27 00:00:22 +0800
+Processing by QuestionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"W97beT02K27BYSkWxAooFKvGDMB0/45CEYAnLl3/LRc=", "question"=>{"body"=>"What is your favorite book?"}, "commit"=>"Ask a Question"}
+  [1m[36mUser Load (1.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 1]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 1]]
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (8.0ms)[0m  INSERT INTO "questions" ("body", "created_at", "updated_at", "user_id") VALUES (?, ?, ?, ?)  [["body", "What is your favorite book?"], ["created_at", Mon, 26 May 2014 16:00:22 UTC +00:00], ["updated_at", Mon, 26 May 2014 16:00:22 UTC +00:00], ["user_id", 1]]
+  [1m[36m (81.0ms)[0m  [1mcommit transaction[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 138ms (ActiveRecord: 91.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-27 00:00:22 +0800
+Processing by QuestionsController#index as HTML
+DEPRECATION WARNING: #apply_finder_options is deprecated. (called from unsolved at C:/learning/makeitsnappy/app/models/question.rb:8)
+  [1m[35mUser Load (1.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 1]]
+  Rendered common/_form_errors.html.erb (2.0ms)
+  Rendered questions/_question_form.html.erb (27.0ms)
+  [1m[36m (1.0ms)[0m  [1mSELECT COUNT(*) FROM "questions" WHERE "questions"."solved" = 'f'[0m
+  [1m[35mQuestion Load (2.0ms)[0m  SELECT "questions".* FROM "questions" WHERE "questions"."solved" = 'f' ORDER BY created_at DESC LIMIT 3 OFFSET 0
+  [1m[36mUser Load (1.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 1]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT 1  [["id", 1]]
+  Rendered questions/_question.html.erb (12.0ms)
+  Rendered questions/index.html.erb within layouts/application (80.0ms)
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 1]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 1]]
+Completed 200 OK in 152ms (Views: 138.0ms | ActiveRecord: 5.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-27 00:00:23 +0800
+
+
+Started GET "/assets/questions.css?body=1" for 127.0.0.1 at 2014-05-27 00:00:23 +0800
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-05-27 00:00:23 +0800
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-27 00:00:23 +0800
+
+
+Started GET "/assets/sessions.css?body=1" for 127.0.0.1 at 2014-05-27 00:00:23 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-27 00:00:23 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-27 00:00:23 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-27 00:00:23 +0800
+
+
+Started GET "/assets/questions.js?body=1" for 127.0.0.1 at 2014-05-27 00:00:23 +0800
+
+
+Started GET "/assets/sessions.js?body=1" for 127.0.0.1 at 2014-05-27 00:00:23 +0800
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-05-27 00:00:23 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-27 00:00:23 +0800
+
+
+Started POST "/questions" for 127.0.0.1 at 2014-05-27 00:00:38 +0800
+Processing by QuestionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"W97beT02K27BYSkWxAooFKvGDMB0/45CEYAnLl3/LRc=", "question"=>{"body"=>"Who is the cutest girl?"}, "commit"=>"Ask a Question"}
+  [1m[36mUser Load (1.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 1]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 1]]
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (8.0ms)[0m  INSERT INTO "questions" ("body", "created_at", "updated_at", "user_id") VALUES (?, ?, ?, ?)  [["body", "Who is the cutest girl?"], ["created_at", Mon, 26 May 2014 16:00:38 UTC +00:00], ["updated_at", Mon, 26 May 2014 16:00:38 UTC +00:00], ["user_id", 1]]
+  [1m[36m (86.0ms)[0m  [1mcommit transaction[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 171ms (ActiveRecord: 95.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-27 00:00:38 +0800
+Processing by QuestionsController#index as HTML
+DEPRECATION WARNING: #apply_finder_options is deprecated. (called from unsolved at C:/learning/makeitsnappy/app/models/question.rb:8)
+  [1m[35mUser Load (3.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 1]]
+  Rendered common/_form_errors.html.erb (0.0ms)
+  Rendered questions/_question_form.html.erb (16.0ms)
+  [1m[36m (2.0ms)[0m  [1mSELECT COUNT(*) FROM "questions" WHERE "questions"."solved" = 'f'[0m
+  [1m[35mQuestion Load (1.0ms)[0m  SELECT "questions".* FROM "questions" WHERE "questions"."solved" = 'f' ORDER BY created_at DESC LIMIT 3 OFFSET 0
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT COUNT(*) FROM "questions" WHERE "questions"."solved" = 'f'[0m
+  [1m[35mUser Load (1.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT 1  [["id", 1]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 1]]
+  [1m[35mCACHE (1.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT 1  [["id", 1]]
+  Rendered questions/_question.html.erb (22.0ms)
+  Rendered questions/index.html.erb within layouts/application (101.0ms)
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 1]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 1]]
+Completed 200 OK in 191ms (Views: 172.0ms | ActiveRecord: 8.0ms)
+
+
+Started GET "/assets/questions.css?body=1" for 127.0.0.1 at 2014-05-27 00:00:39 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-27 00:00:39 +0800
+
+
+Started GET "/assets/sessions.css?body=1" for 127.0.0.1 at 2014-05-27 00:00:39 +0800
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-27 00:00:39 +0800
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-27 00:00:39 +0800
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-05-27 00:00:39 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-27 00:00:39 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-27 00:00:39 +0800
+
+
+Started GET "/assets/questions.js?body=1" for 127.0.0.1 at 2014-05-27 00:00:39 +0800
+
+
+Started GET "/assets/sessions.js?body=1" for 127.0.0.1 at 2014-05-27 00:00:39 +0800
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-05-27 00:00:39 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-27 00:00:39 +0800
+
+
+Started POST "/questions" for 127.0.0.1 at 2014-05-27 00:00:44 +0800
+Processing by QuestionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"W97beT02K27BYSkWxAooFKvGDMB0/45CEYAnLl3/LRc=", "question"=>{"body"=>"Do you cosplay?"}, "commit"=>"Ask a Question"}
+  [1m[36mUser Load (1.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 1]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 1]]
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (6.0ms)[0m  INSERT INTO "questions" ("body", "created_at", "updated_at", "user_id") VALUES (?, ?, ?, ?)  [["body", "Do you cosplay?"], ["created_at", Mon, 26 May 2014 16:00:44 UTC +00:00], ["updated_at", Mon, 26 May 2014 16:00:44 UTC +00:00], ["user_id", 1]]
+  [1m[36m (122.0ms)[0m  [1mcommit transaction[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 258ms (ActiveRecord: 130.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-27 00:00:44 +0800
+Processing by QuestionsController#index as HTML
+DEPRECATION WARNING: #apply_finder_options is deprecated. (called from unsolved at C:/learning/makeitsnappy/app/models/question.rb:8)
+  [1m[35mUser Load (1.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 1]]
+  Rendered common/_form_errors.html.erb (1.0ms)
+  Rendered questions/_question_form.html.erb (11.0ms)
+  [1m[36m (1.0ms)[0m  [1mSELECT COUNT(*) FROM "questions" WHERE "questions"."solved" = 'f'[0m
+  [1m[35mQuestion Load (1.0ms)[0m  SELECT "questions".* FROM "questions" WHERE "questions"."solved" = 'f' ORDER BY created_at DESC LIMIT 3 OFFSET 0
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT COUNT(*) FROM "questions" WHERE "questions"."solved" = 'f'[0m
+  [1m[35mUser Load (1.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT 1  [["id", 1]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 1]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT 1  [["id", 1]]
+  Rendered questions/_question.html.erb (24.0ms)
+  Rendered questions/index.html.erb within layouts/application (193.0ms)
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 1]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 1]]
+Completed 200 OK in 266ms (Views: 255.0ms | ActiveRecord: 4.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-27 00:00:44 +0800
+
+
+Started GET "/assets/questions.css?body=1" for 127.0.0.1 at 2014-05-27 00:00:44 +0800
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-27 00:00:44 +0800
+
+
+Started GET "/assets/sessions.css?body=1" for 127.0.0.1 at 2014-05-27 00:00:44 +0800
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-05-27 00:00:44 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-27 00:00:44 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-27 00:00:44 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-27 00:00:45 +0800
+
+
+Started GET "/assets/questions.js?body=1" for 127.0.0.1 at 2014-05-27 00:00:45 +0800
+
+
+Started GET "/assets/sessions.js?body=1" for 127.0.0.1 at 2014-05-27 00:00:45 +0800
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-05-27 00:00:45 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-27 00:00:45 +0800
+
+
+Started POST "/questions" for 127.0.0.1 at 2014-05-27 00:00:52 +0800
+Processing by QuestionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"W97beT02K27BYSkWxAooFKvGDMB0/45CEYAnLl3/LRc=", "question"=>{"body"=>"Are you handsome?"}, "commit"=>"Ask a Question"}
+  [1m[36mUser Load (1.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 1]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 1]]
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (4.0ms)[0m  INSERT INTO "questions" ("body", "created_at", "updated_at", "user_id") VALUES (?, ?, ?, ?)  [["body", "Are you handsome?"], ["created_at", Mon, 26 May 2014 16:00:52 UTC +00:00], ["updated_at", Mon, 26 May 2014 16:00:52 UTC +00:00], ["user_id", 1]]
+  [1m[36m (98.0ms)[0m  [1mcommit transaction[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 171ms (ActiveRecord: 103.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-27 00:00:52 +0800
+Processing by QuestionsController#index as HTML
+DEPRECATION WARNING: #apply_finder_options is deprecated. (called from unsolved at C:/learning/makeitsnappy/app/models/question.rb:8)
+  [1m[35mUser Load (2.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 1]]
+  Rendered common/_form_errors.html.erb (0.0ms)
+  Rendered questions/_question_form.html.erb (20.0ms)
+  [1m[36m (1.0ms)[0m  [1mSELECT COUNT(*) FROM "questions" WHERE "questions"."solved" = 'f'[0m
+  [1m[35mQuestion Load (1.0ms)[0m  SELECT "questions".* FROM "questions" WHERE "questions"."solved" = 'f' ORDER BY created_at DESC LIMIT 3 OFFSET 0
+  [1m[36mCACHE (1.0ms)[0m  [1mSELECT COUNT(*) FROM "questions" WHERE "questions"."solved" = 'f'[0m
+  [1m[35mUser Load (1.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT 1  [["id", 1]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 1]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT 1  [["id", 1]]
+  Rendered questions/_question.html.erb (20.0ms)
+  Rendered questions/index.html.erb within layouts/application (82.0ms)
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 1]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 1]]
+Completed 200 OK in 168ms (Views: 152.0ms | ActiveRecord: 6.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-27 00:00:52 +0800
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-05-27 00:00:52 +0800
+
+
+Started GET "/assets/sessions.css?body=1" for 127.0.0.1 at 2014-05-27 00:00:53 +0800
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-27 00:00:53 +0800
+
+
+Started GET "/assets/questions.css?body=1" for 127.0.0.1 at 2014-05-27 00:00:53 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-27 00:00:53 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-27 00:00:53 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-27 00:00:53 +0800
+
+
+Started GET "/assets/questions.js?body=1" for 127.0.0.1 at 2014-05-27 00:00:53 +0800
+
+
+Started GET "/assets/sessions.js?body=1" for 127.0.0.1 at 2014-05-27 00:00:53 +0800
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-05-27 00:00:53 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-27 00:00:53 +0800
+
+
+Started GET "/?page=2" for 127.0.0.1 at 2014-05-27 00:00:55 +0800
+Processing by QuestionsController#index as HTML
+  Parameters: {"page"=>"2"}
+DEPRECATION WARNING: #apply_finder_options is deprecated. (called from unsolved at C:/learning/makeitsnappy/app/models/question.rb:8)
+  [1m[36mUser Load (1.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 1]]
+  Rendered common/_form_errors.html.erb (2.0ms)
+  Rendered questions/_question_form.html.erb (21.0ms)
+  [1m[35m (2.0ms)[0m  SELECT COUNT(*) FROM "questions" WHERE "questions"."solved" = 'f'
+  [1m[36mQuestion Load (1.0ms)[0m  [1mSELECT "questions".* FROM "questions" WHERE "questions"."solved" = 'f' ORDER BY created_at DESC LIMIT 3 OFFSET 3[0m
+  [1m[35mUser Load (1.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT 1  [["id", 1]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 1]]
+  Rendered questions/_question.html.erb (19.0ms)
+  Rendered questions/index.html.erb within layouts/application (100.0ms)
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 1]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 1]]
+Completed 200 OK in 186ms (Views: 174.0ms | ActiveRecord: 5.0ms)
+
+
+Started GET "/?page=1" for 127.0.0.1 at 2014-05-27 00:00:58 +0800
+Processing by QuestionsController#index as HTML
+  Parameters: {"page"=>"1"}
+DEPRECATION WARNING: #apply_finder_options is deprecated. (called from unsolved at C:/learning/makeitsnappy/app/models/question.rb:8)
+  [1m[35mUser Load (1.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 1]]
+  Rendered common/_form_errors.html.erb (0.0ms)
+  Rendered questions/_question_form.html.erb (16.0ms)
+  [1m[36m (1.0ms)[0m  [1mSELECT COUNT(*) FROM "questions" WHERE "questions"."solved" = 'f'[0m
+  [1m[35mQuestion Load (2.0ms)[0m  SELECT "questions".* FROM "questions" WHERE "questions"."solved" = 'f' ORDER BY created_at DESC LIMIT 3 OFFSET 0
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT COUNT(*) FROM "questions" WHERE "questions"."solved" = 'f'[0m
+  [1m[35mUser Load (1.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT 1  [["id", 1]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 1]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT 1  [["id", 1]]
+  Rendered questions/_question.html.erb (35.0ms)
+  Rendered questions/index.html.erb within layouts/application (128.0ms)
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 1]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 1]]
+Completed 200 OK in 199ms (Views: 184.0ms | ActiveRecord: 5.0ms)
+
+
+Started GET "/?page=1" for 127.0.0.1 at 2014-05-27 00:22:00 +0800
+Processing by QuestionsController#index as HTML
+  Parameters: {"page"=>"1"}
+DEPRECATION WARNING: #apply_finder_options is deprecated. (called from unsolved at C:/learning/makeitsnappy/app/models/question.rb:8)
+  [1m[36mUser Load (1.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 1]]
+  Rendered common/_form_errors.html.erb (0.0ms)
+  Rendered questions/_question_form.html.erb (43.0ms)
+  [1m[35m (1.0ms)[0m  SELECT COUNT(*) FROM "questions" WHERE "questions"."solved" = 'f'
+  [1m[36mQuestion Load (2.0ms)[0m  [1mSELECT "questions".* FROM "questions" WHERE "questions"."solved" = 'f' ORDER BY created_at DESC LIMIT 3 OFFSET 0[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT COUNT(*) FROM "questions" WHERE "questions"."solved" = 'f'
+  [1m[36mUser Load (2.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 1]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT 1  [["id", 1]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 1]]
+  Rendered questions/_question.html.erb (28.0ms)
+  Rendered questions/index.html.erb within layouts/application (192.0ms)
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 1]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 1]]
+Completed 200 OK in 294ms (Views: 248.0ms | ActiveRecord: 12.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-27 00:22:01 +0800
+
+
+Started GET "/assets/questions.css?body=1" for 127.0.0.1 at 2014-05-27 00:22:01 +0800
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-27 00:22:01 +0800
+
+
+Started GET "/assets/sessions.css?body=1" for 127.0.0.1 at 2014-05-27 00:22:01 +0800
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-05-27 00:22:01 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-27 00:22:01 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-27 00:22:01 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-27 00:22:01 +0800
+
+
+Started GET "/assets/questions.js?body=1" for 127.0.0.1 at 2014-05-27 00:22:02 +0800
+
+
+Started GET "/assets/sessions.js?body=1" for 127.0.0.1 at 2014-05-27 00:22:02 +0800
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-05-27 00:22:02 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-27 00:22:02 +0800
+
+
+Started GET "/questions/5" for 127.0.0.1 at 2014-05-27 00:22:04 +0800
+Processing by QuestionsController#show as HTML
+  Parameters: {"id"=>"5"}
+  [1m[35mQuestion Load (2.0ms)[0m  SELECT "questions".* FROM "questions" WHERE "questions"."id" = ? LIMIT 1  [["id", "5"]]
+  [1m[36mUser Load (1.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 1]]
+  Rendered questions/show.html.erb within layouts/application (12.0ms)
+  [1m[35mUser Load (1.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 1]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 1]]
+Completed 200 OK in 102ms (Views: 87.0ms | ActiveRecord: 4.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-27 00:22:09 +0800
+Processing by QuestionsController#index as HTML
+DEPRECATION WARNING: #apply_finder_options is deprecated. (called from unsolved at C:/learning/makeitsnappy/app/models/question.rb:8)
+  [1m[35mUser Load (1.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 1]]
+  Rendered common/_form_errors.html.erb (1.0ms)
+  Rendered questions/_question_form.html.erb (15.0ms)
+  [1m[36m (1.0ms)[0m  [1mSELECT COUNT(*) FROM "questions" WHERE "questions"."solved" = 'f'[0m
+  [1m[35mQuestion Load (2.0ms)[0m  SELECT "questions".* FROM "questions" WHERE "questions"."solved" = 'f' ORDER BY created_at DESC LIMIT 3 OFFSET 0
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT COUNT(*) FROM "questions" WHERE "questions"."solved" = 'f'[0m
+  [1m[35mUser Load (1.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT 1  [["id", 1]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 1]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT 1  [["id", 1]]
+  Rendered questions/_question.html.erb (34.0ms)
+  Rendered questions/index.html.erb within layouts/application (103.0ms)
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 1]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 1]]
+Completed 200 OK in 179ms (Views: 165.0ms | ActiveRecord: 5.0ms)
+
+
+Started GET "/questions/5" for 127.0.0.1 at 2014-05-27 00:22:11 +0800
+Processing by QuestionsController#show as HTML
+  Parameters: {"id"=>"5"}
+  [1m[36mQuestion Load (1.0ms)[0m  [1mSELECT "questions".* FROM "questions" WHERE "questions"."id" = ? LIMIT 1[0m  [["id", "5"]]
+  [1m[35mUser Load (1.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT 1  [["id", 1]]
+  Rendered questions/show.html.erb within layouts/application (12.0ms)
+  [1m[36mUser Load (1.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 1]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 1]]
+Completed 200 OK in 102ms (Views: 84.0ms | ActiveRecord: 3.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-27 00:22:12 +0800
+Processing by QuestionsController#index as HTML
+DEPRECATION WARNING: #apply_finder_options is deprecated. (called from unsolved at C:/learning/makeitsnappy/app/models/question.rb:8)
+  [1m[36mUser Load (1.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 1]]
+  Rendered common/_form_errors.html.erb (1.0ms)
+  Rendered questions/_question_form.html.erb (18.0ms)
+  [1m[35m (1.0ms)[0m  SELECT COUNT(*) FROM "questions" WHERE "questions"."solved" = 'f'
+  [1m[36mQuestion Load (1.0ms)[0m  [1mSELECT "questions".* FROM "questions" WHERE "questions"."solved" = 'f' ORDER BY created_at DESC LIMIT 3 OFFSET 0[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT COUNT(*) FROM "questions" WHERE "questions"."solved" = 'f'
+  [1m[36mUser Load (1.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 1]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT 1  [["id", 1]]
+  [1m[36mCACHE (1.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 1]]
+  Rendered questions/_question.html.erb (118.0ms)
+  Rendered questions/index.html.erb within layouts/application (193.0ms)
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 1]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 1]]
+Completed 200 OK in 287ms (Views: 274.0ms | ActiveRecord: 5.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-27 00:23:02 +0800
+Processing by QuestionsController#index as HTML
+DEPRECATION WARNING: #apply_finder_options is deprecated. (called from unsolved at C:/learning/makeitsnappy/app/models/question.rb:8)
+  [1m[35mUser Load (1.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 1]]
+  Rendered common/_form_errors.html.erb (0.0ms)
+  Rendered questions/_question_form.html.erb (36.0ms)
+  [1m[36m (1.0ms)[0m  [1mSELECT COUNT(*) FROM "questions" WHERE "questions"."solved" = 'f'[0m
+  [1m[35mQuestion Load (1.0ms)[0m  SELECT "questions".* FROM "questions" WHERE "questions"."solved" = 'f' ORDER BY created_at DESC LIMIT 3 OFFSET 0
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT COUNT(*) FROM "questions" WHERE "questions"."solved" = 'f'[0m
+  [1m[35mUser Load (1.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT 1  [["id", 1]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 1]]
+  [1m[35mCACHE (1.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT 1  [["id", 1]]
+  Rendered questions/_question.html.erb (40.0ms)
+  Rendered questions/index.html.erb within layouts/application (205.0ms)
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 1]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 1]]
+Completed 200 OK in 305ms (Views: 257.0ms | ActiveRecord: 16.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-27 00:23:03 +0800
+
+
+Started GET "/assets/questions.css?body=1" for 127.0.0.1 at 2014-05-27 00:23:03 +0800
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-27 00:23:03 +0800
+
+
+Started GET "/assets/sessions.css?body=1" for 127.0.0.1 at 2014-05-27 00:23:03 +0800
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-05-27 00:23:03 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-27 00:23:03 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-27 00:23:03 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-27 00:23:03 +0800
+
+
+Started GET "/assets/questions.js?body=1" for 127.0.0.1 at 2014-05-27 00:23:03 +0800
+
+
+Started GET "/assets/sessions.js?body=1" for 127.0.0.1 at 2014-05-27 00:23:03 +0800
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-05-27 00:23:03 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-27 00:23:03 +0800
+
+
+Started POST "/questions" for 127.0.0.1 at 2014-05-27 00:23:12 +0800
+Processing by QuestionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"W97beT02K27BYSkWxAooFKvGDMB0/45CEYAnLl3/LRc=", "question"=>{"body"=>"How to be happy?"}, "commit"=>"Ask a Question"}
+  [1m[36mUser Load (1.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 1]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 1]]
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (16.0ms)[0m  INSERT INTO "questions" ("body", "created_at", "updated_at", "user_id") VALUES (?, ?, ?, ?)  [["body", "How to be happy?"], ["created_at", Mon, 26 May 2014 16:23:12 UTC +00:00], ["updated_at", Mon, 26 May 2014 16:23:12 UTC +00:00], ["user_id", 1]]
+  [1m[36m (81.0ms)[0m  [1mcommit transaction[0m
+Redirected to http://localhost:3000/questions/6
+Completed 302 Found in 291ms (ActiveRecord: 99.0ms)
+
+
+Started GET "/questions/6" for 127.0.0.1 at 2014-05-27 00:23:13 +0800
+Processing by QuestionsController#show as HTML
+  Parameters: {"id"=>"6"}
+  [1m[35mQuestion Load (1.0ms)[0m  SELECT "questions".* FROM "questions" WHERE "questions"."id" = ? LIMIT 1  [["id", "6"]]
+  [1m[36mUser Load (1.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 1]]
+  Rendered questions/show.html.erb within layouts/application (22.0ms)
+  [1m[35mUser Load (1.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 1]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 1]]
+Completed 200 OK in 166ms (Views: 156.0ms | ActiveRecord: 3.0ms)
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-27 00:23:13 +0800
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-05-27 00:23:13 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-27 00:23:13 +0800
+
+
+Started GET "/assets/sessions.css?body=1" for 127.0.0.1 at 2014-05-27 00:23:13 +0800
+
+
+Started GET "/assets/questions.css?body=1" for 127.0.0.1 at 2014-05-27 00:23:13 +0800
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-27 00:23:13 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-27 00:23:13 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-27 00:23:13 +0800
+
+
+Started GET "/assets/questions.js?body=1" for 127.0.0.1 at 2014-05-27 00:23:13 +0800
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-05-27 00:23:13 +0800
+
+
+Started GET "/assets/sessions.js?body=1" for 127.0.0.1 at 2014-05-27 00:23:13 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-27 00:23:13 +0800
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-27 00:23:15 +0800
+Processing by QuestionsController#index as HTML
+DEPRECATION WARNING: #apply_finder_options is deprecated. (called from unsolved at C:/learning/makeitsnappy/app/models/question.rb:8)
+  [1m[35mUser Load (1.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 1]]
+  Rendered common/_form_errors.html.erb (0.0ms)
+  Rendered questions/_question_form.html.erb (17.0ms)
+  [1m[36m (2.0ms)[0m  [1mSELECT COUNT(*) FROM "questions" WHERE "questions"."solved" = 'f'[0m
+  [1m[35mQuestion Load (1.0ms)[0m  SELECT "questions".* FROM "questions" WHERE "questions"."solved" = 'f' ORDER BY created_at DESC LIMIT 3 OFFSET 0
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT COUNT(*) FROM "questions" WHERE "questions"."solved" = 'f'[0m
+  [1m[35mUser Load (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT 1  [["id", 1]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 1]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT 1  [["id", 1]]
+  Rendered questions/_question.html.erb (24.0ms)
+  Rendered questions/index.html.erb within layouts/application (103.0ms)
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 1]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 1]]
+Completed 200 OK in 192ms (Views: 178.0ms | ActiveRecord: 4.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-27 00:38:34 +0800
+
+ArgumentError (missing :controller):
+  config/routes.rb:12:in `block in <top (required)>'
+  config/routes.rb:1:in `<top (required)>'
+
+
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_source.erb (4.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.erb (5.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (4.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (174.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-27 00:40:01 +0800
+
+ArgumentError (missing :controller):
+  config/routes.rb:12:in `block in <top (required)>'
+  config/routes.rb:1:in `<top (required)>'
+
+
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_source.erb (3.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.erb (5.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (3.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (169.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-27 00:40:47 +0800
+Processing by QuestionsController#index as HTML
+DEPRECATION WARNING: #apply_finder_options is deprecated. (called from unsolved at C:/learning/makeitsnappy/app/models/question.rb:8)
+  [1m[36mUser Load (1.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 1]]
+  Rendered common/_form_errors.html.erb (0.0ms)
+  Rendered questions/_question_form.html.erb (36.0ms)
+  [1m[35m (1.0ms)[0m  SELECT COUNT(*) FROM "questions" WHERE "questions"."solved" = 'f'
+  [1m[36mQuestion Load (2.0ms)[0m  [1mSELECT "questions".* FROM "questions" WHERE "questions"."solved" = 'f' ORDER BY created_at DESC LIMIT 3 OFFSET 0[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT COUNT(*) FROM "questions" WHERE "questions"."solved" = 'f'
+  [1m[36mUser Load (3.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 1]]
+  [1m[35mCACHE (1.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT 1  [["id", 1]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 1]]
+  Rendered questions/_question.html.erb (33.0ms)
+  Rendered questions/index.html.erb within layouts/application (182.0ms)
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 1]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 1]]
+Completed 200 OK in 285ms (Views: 247.0ms | ActiveRecord: 13.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-27 00:40:47 +0800
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-27 00:40:47 +0800
+
+
+Started GET "/assets/questions.css?body=1" for 127.0.0.1 at 2014-05-27 00:40:47 +0800
+
+
+Started GET "/assets/sessions.css?body=1" for 127.0.0.1 at 2014-05-27 00:40:47 +0800
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-05-27 00:40:47 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-27 00:40:48 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-27 00:40:48 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-27 00:40:48 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-27 00:40:48 +0800
+
+
+Started GET "/assets/questions.js?body=1" for 127.0.0.1 at 2014-05-27 00:40:48 +0800
+
+
+Started GET "/assets/sessions.js?body=1" for 127.0.0.1 at 2014-05-27 00:40:48 +0800
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-05-27 00:40:48 +0800
+
+
+Started GET "/your_questions" for 127.0.0.1 at 2014-05-27 00:40:50 +0800
+Processing by QuestionsController#your_questions as HTML
+  [1m[35mUser Load (1.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 1]]
+  [1m[36mCACHE (1.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 1]]
+DEPRECATION WARNING: #apply_finder_options is deprecated. (called from your_questions at C:/learning/makeitsnappy/app/models/user.rb:14)
+  [1m[35m (2.0ms)[0m  SELECT COUNT(*) FROM "questions" WHERE "questions"."user_id" = ?  [["user_id", 1]]
+  [1m[36mQuestion Load (1.0ms)[0m  [1mSELECT "questions".* FROM "questions" WHERE "questions"."user_id" = ? ORDER BY created_at DESC LIMIT 3 OFFSET 0[0m  [["user_id", 1]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT COUNT(*) FROM "questions" WHERE "questions"."user_id" = ?  [["user_id", 1]]
+  [1m[36mUser Load (1.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 1]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT 1  [["id", 1]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 1]]
+  Rendered questions/_question.html.erb (30.0ms)
+  Rendered questions/your_questions.html.erb within layouts/application (69.0ms)
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 1]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 1]]
+Completed 200 OK in 185ms (Views: 145.0ms | ActiveRecord: 6.0ms)
+
+
+Started GET "/your_questions?page=2" for 127.0.0.1 at 2014-05-27 00:40:54 +0800
+Processing by QuestionsController#your_questions as HTML
+  Parameters: {"page"=>"2"}
+  [1m[35mUser Load (1.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 1]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 1]]
+DEPRECATION WARNING: #apply_finder_options is deprecated. (called from your_questions at C:/learning/makeitsnappy/app/models/user.rb:14)
+  [1m[35m (1.0ms)[0m  SELECT COUNT(*) FROM "questions" WHERE "questions"."user_id" = ?  [["user_id", 1]]
+  [1m[36mQuestion Load (4.0ms)[0m  [1mSELECT "questions".* FROM "questions" WHERE "questions"."user_id" = ? ORDER BY created_at DESC LIMIT 3 OFFSET 3[0m  [["user_id", 1]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT COUNT(*) FROM "questions" WHERE "questions"."user_id" = ?  [["user_id", 1]]
+  [1m[36mUser Load (1.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 1]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT 1  [["id", 1]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 1]]
+  Rendered questions/_question.html.erb (21.0ms)
+  Rendered questions/your_questions.html.erb within layouts/application (65.0ms)
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 1]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 1]]
+Completed 200 OK in 177ms (Views: 141.0ms | ActiveRecord: 7.0ms)
+
+
+Started DELETE "/logout" for 127.0.0.1 at 2014-05-27 00:40:56 +0800
+Processing by SessionsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"W97beT02K27BYSkWxAooFKvGDMB0/45CEYAnLl3/LRc="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 30ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-27 00:40:56 +0800
+Processing by QuestionsController#index as HTML
+DEPRECATION WARNING: #apply_finder_options is deprecated. (called from unsolved at C:/learning/makeitsnappy/app/models/question.rb:8)
+  [1m[35m (1.0ms)[0m  SELECT COUNT(*) FROM "questions" WHERE "questions"."solved" = 'f'
+  [1m[36mQuestion Load (3.0ms)[0m  [1mSELECT "questions".* FROM "questions" WHERE "questions"."solved" = 'f' ORDER BY created_at DESC LIMIT 3 OFFSET 0[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT COUNT(*) FROM "questions" WHERE "questions"."solved" = 'f'
+  [1m[36mUser Load (1.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 1]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT 1  [["id", 1]]
+  [1m[36mCACHE (1.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 1]]
+  Rendered questions/_question.html.erb (21.0ms)
+  Rendered questions/index.html.erb within layouts/application (56.0ms)
+Completed 200 OK in 128ms (Views: 115.0ms | ActiveRecord: 6.0ms)
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-27 00:40:56 +0800
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-05-27 00:40:56 +0800
+
+
+Started GET "/assets/questions.css?body=1" for 127.0.0.1 at 2014-05-27 00:40:56 +0800
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-27 00:40:57 +0800
+
+
+Started GET "/assets/sessions.css?body=1" for 127.0.0.1 at 2014-05-27 00:40:57 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-27 00:40:57 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-27 00:40:57 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-27 00:40:57 +0800
+
+
+Started GET "/assets/questions.js?body=1" for 127.0.0.1 at 2014-05-27 00:40:57 +0800
+
+
+Started GET "/assets/sessions.js?body=1" for 127.0.0.1 at 2014-05-27 00:40:57 +0800
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-05-27 00:40:57 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-27 00:40:57 +0800
+
+
+Started GET "/register" for 127.0.0.1 at 2014-05-27 00:40:59 +0800
+Processing by UsersController#new as HTML
+  Rendered common/_form_errors.html.erb (0.0ms)
+  Rendered users/new.html.erb within layouts/application (43.0ms)
+Completed 200 OK in 110ms (Views: 104.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/users" for 127.0.0.1 at 2014-05-27 00:41:18 +0800
+Processing by UsersController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"W97beT02K27BYSkWxAooFKvGDMB0/45CEYAnLl3/LRc=", "user"=>{"username"=>"aurea", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]"}, "commit"=>"Register"}
+  [1m[35m (1.0ms)[0m  begin transaction
+  [1m[36mUser Exists (15.0ms)[0m  [1mSELECT 1 AS one FROM "users" WHERE LOWER("users"."username") = LOWER('aurea') LIMIT 1[0m
+Binary data inserted for `string` type on column `password_digest`
+  [1m[35mSQL (8.0ms)[0m  INSERT INTO "users" ("created_at", "password_digest", "updated_at", "username") VALUES (?, ?, ?, ?)  [["created_at", Mon, 26 May 2014 16:41:18 UTC +00:00], ["password_digest", "$2a$10$Velcbd4ERMaLj73gui4WSOZ96n.UyvaUQyIZGGjb/9X02miXpZUc6"], ["updated_at", Mon, 26 May 2014 16:41:18 UTC +00:00], ["username", "aurea"]]
+  [1m[36m (99.0ms)[0m  [1mcommit transaction[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 554ms (ActiveRecord: 123.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-27 00:41:18 +0800
+Processing by QuestionsController#index as HTML
+DEPRECATION WARNING: #apply_finder_options is deprecated. (called from unsolved at C:/learning/makeitsnappy/app/models/question.rb:8)
+  [1m[35mUser Load (1.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 3]]
+  Rendered common/_form_errors.html.erb (1.0ms)
+  Rendered questions/_question_form.html.erb (19.0ms)
+  [1m[36m (1.0ms)[0m  [1mSELECT COUNT(*) FROM "questions" WHERE "questions"."solved" = 'f'[0m
+  [1m[35mQuestion Load (2.0ms)[0m  SELECT "questions".* FROM "questions" WHERE "questions"."solved" = 'f' ORDER BY created_at DESC LIMIT 3 OFFSET 0
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT COUNT(*) FROM "questions" WHERE "questions"."solved" = 'f'[0m
+  [1m[35mUser Load (3.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT 1  [["id", 1]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 1]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT 1  [["id", 1]]
+  Rendered questions/_question.html.erb (32.0ms)
+  Rendered questions/index.html.erb within layouts/application (132.0ms)
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 3]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 3]]
+Completed 200 OK in 226ms (Views: 211.0ms | ActiveRecord: 7.0ms)
+
+
+Started GET "/assets/sessions.css?body=1" for 127.0.0.1 at 2014-05-27 00:41:19 +0800
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-05-27 00:41:19 +0800
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-27 00:41:19 +0800
+
+
+Started GET "/assets/questions.css?body=1" for 127.0.0.1 at 2014-05-27 00:41:19 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-27 00:41:19 +0800
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-27 00:41:19 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-27 00:41:19 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-27 00:41:19 +0800
+
+
+Started GET "/assets/questions.js?body=1" for 127.0.0.1 at 2014-05-27 00:41:19 +0800
+
+
+Started GET "/assets/sessions.js?body=1" for 127.0.0.1 at 2014-05-27 00:41:19 +0800
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-05-27 00:41:19 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-27 00:41:19 +0800
+
+
+Started GET "/your_questions" for 127.0.0.1 at 2014-05-27 00:41:22 +0800
+Processing by QuestionsController#your_questions as HTML
+  [1m[36mUser Load (1.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 3]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 3]]
+DEPRECATION WARNING: #apply_finder_options is deprecated. (called from your_questions at C:/learning/makeitsnappy/app/models/user.rb:14)
+  [1m[36m (1.0ms)[0m  [1mSELECT COUNT(*) FROM "questions" WHERE "questions"."user_id" = ?[0m  [["user_id", 3]]
+  Rendered questions/your_questions.html.erb within layouts/application (6.0ms)
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 3]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 3]]
+Completed 200 OK in 106ms (Views: 84.0ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-27 00:41:25 +0800
+Processing by QuestionsController#index as HTML
+DEPRECATION WARNING: #apply_finder_options is deprecated. (called from unsolved at C:/learning/makeitsnappy/app/models/question.rb:8)
+  [1m[35mUser Load (5.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 3]]
+  Rendered common/_form_errors.html.erb (0.0ms)
+  Rendered questions/_question_form.html.erb (18.0ms)
+  [1m[36m (1.0ms)[0m  [1mSELECT COUNT(*) FROM "questions" WHERE "questions"."solved" = 'f'[0m
+  [1m[35mQuestion Load (1.0ms)[0m  SELECT "questions".* FROM "questions" WHERE "questions"."solved" = 'f' ORDER BY created_at DESC LIMIT 3 OFFSET 0
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT COUNT(*) FROM "questions" WHERE "questions"."solved" = 'f'[0m
+  [1m[35mUser Load (1.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT 1  [["id", 1]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 1]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT 1  [["id", 1]]
+  Rendered questions/_question.html.erb (44.0ms)
+  Rendered questions/index.html.erb within layouts/application (127.0ms)
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 3]]
+  [1m[35mCACHE (1.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 3]]
+Completed 200 OK in 229ms (Views: 210.0ms | ActiveRecord: 9.0ms)
+
+
+Started POST "/questions" for 127.0.0.1 at 2014-05-27 00:41:39 +0800
+Processing by QuestionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"W97beT02K27BYSkWxAooFKvGDMB0/45CEYAnLl3/LRc=", "question"=>{"body"=>"What is a good sword for fighting?"}, "commit"=>"Ask a Question"}
+  [1m[36mUser Load (1.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 3]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 3]]
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (8.0ms)[0m  INSERT INTO "questions" ("body", "created_at", "updated_at", "user_id") VALUES (?, ?, ?, ?)  [["body", "What is a good sword for fighting?"], ["created_at", Mon, 26 May 2014 16:41:39 UTC +00:00], ["updated_at", Mon, 26 May 2014 16:41:39 UTC +00:00], ["user_id", 3]]
+  [1m[36m (94.0ms)[0m  [1mcommit transaction[0m
+Redirected to http://localhost:3000/questions/7
+Completed 302 Found in 159ms (ActiveRecord: 103.0ms)
+
+
+Started GET "/questions/7" for 127.0.0.1 at 2014-05-27 00:41:39 +0800
+Processing by QuestionsController#show as HTML
+  Parameters: {"id"=>"7"}
+  [1m[35mQuestion Load (1.0ms)[0m  SELECT "questions".* FROM "questions" WHERE "questions"."id" = ? LIMIT 1  [["id", "7"]]
+  [1m[36mUser Load (1.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 3]]
+  Rendered questions/show.html.erb within layouts/application (11.0ms)
+  [1m[35mUser Load (2.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 3]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 3]]
+Completed 200 OK in 85ms (Views: 72.0ms | ActiveRecord: 4.0ms)
+
+
+Started GET "/assets/questions.css?body=1" for 127.0.0.1 at 2014-05-27 00:41:39 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-27 00:41:39 +0800
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-27 00:41:40 +0800
+
+
+Started GET "/assets/sessions.css?body=1" for 127.0.0.1 at 2014-05-27 00:41:40 +0800
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-05-27 00:41:40 +0800
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-27 00:41:40 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-27 00:41:40 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-27 00:41:40 +0800
+
+
+Started GET "/assets/questions.js?body=1" for 127.0.0.1 at 2014-05-27 00:41:40 +0800
+
+
+Started GET "/assets/sessions.js?body=1" for 127.0.0.1 at 2014-05-27 00:41:40 +0800
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-05-27 00:41:40 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-27 00:41:40 +0800
+
+
+Started GET "/your_questions" for 127.0.0.1 at 2014-05-27 00:41:42 +0800
+Processing by QuestionsController#your_questions as HTML
+  [1m[35mUser Load (2.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 3]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 3]]
+DEPRECATION WARNING: #apply_finder_options is deprecated. (called from your_questions at C:/learning/makeitsnappy/app/models/user.rb:14)
+  [1m[35m (1.0ms)[0m  SELECT COUNT(*) FROM "questions" WHERE "questions"."user_id" = ?  [["user_id", 3]]
+  [1m[36mQuestion Load (1.0ms)[0m  [1mSELECT "questions".* FROM "questions" WHERE "questions"."user_id" = ? ORDER BY created_at DESC LIMIT 3 OFFSET 0[0m  [["user_id", 3]]
+  [1m[35mUser Load (1.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT 1  [["id", 3]]
+  Rendered questions/_question.html.erb (10.0ms)
+  Rendered questions/your_questions.html.erb within layouts/application (37.0ms)
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 3]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 3]]
+Completed 200 OK in 134ms (Views: 108.0ms | ActiveRecord: 5.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-27 00:41:45 +0800
+Processing by QuestionsController#index as HTML
+DEPRECATION WARNING: #apply_finder_options is deprecated. (called from unsolved at C:/learning/makeitsnappy/app/models/question.rb:8)
+  [1m[36mUser Load (1.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 3]]
+  Rendered common/_form_errors.html.erb (1.0ms)
+  Rendered questions/_question_form.html.erb (15.0ms)
+  [1m[35m (1.0ms)[0m  SELECT COUNT(*) FROM "questions" WHERE "questions"."solved" = 'f'
+  [1m[36mQuestion Load (1.0ms)[0m  [1mSELECT "questions".* FROM "questions" WHERE "questions"."solved" = 'f' ORDER BY created_at DESC LIMIT 3 OFFSET 0[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT COUNT(*) FROM "questions" WHERE "questions"."solved" = 'f'
+  [1m[36mUser Load (1.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 3]]
+  [1m[35mUser Load (5.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT 1  [["id", 1]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 1]]
+  Rendered questions/_question.html.erb (27.0ms)
+  Rendered questions/index.html.erb within layouts/application (104.0ms)
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 3]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 3]]
+Completed 200 OK in 174ms (Views: 154.0ms | ActiveRecord: 9.0ms)
