@@ -5742,3 +5742,26 @@ DEPRECATION WARNING: #apply_finder_options is deprecated. (called from unsolved 
   [1m[36mCACHE (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 1]]
   [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 1]]
 Completed 200 OK in 300ms (Views: 285.0ms | ActiveRecord: 4.0ms)
+  [1m[36mActiveRecord::SchemaMigration Load (1.0ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Migrating to CreateAnswers (20140528140034)
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (20.0ms)[0m  [1mCREATE TABLE "answers" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "user_id" integer, "question_id" integer, "body" varchar(255), "created_at" datetime, "updated_at" datetime) [0m
+  [1m[35m (1.0ms)[0m  CREATE INDEX "index_answers_on_user_id" ON "answers" ("user_id")
+  [1m[36m (0.0ms)[0m  [1mCREATE INDEX "index_answers_on_question_id" ON "answers" ("question_id")[0m
+  [1m[35mSQL (1.0ms)[0m  INSERT INTO "schema_migrations" ("version") VALUES (?)  [["version", "20140528140034"]]
+  [1m[36m (103.0ms)[0m  [1mcommit transaction[0m
+  [1m[35mActiveRecord::SchemaMigration Load (1.0ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+  [1m[36m (2.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mAnswer Load (1.0ms)[0m  SELECT "answers".* FROM "answers"
+  [1m[36mAnswer Load (0.0ms)[0m  [1mSELECT "answers".* FROM "answers"[0m
+  [1m[35mAnswer Load (0.0ms)[0m  SELECT "answers".* FROM "answers"
+  [1m[36m (1.0ms)[0m  [1mrollback transaction[0m
+  [1m[36m (3.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mAnswer Load (0.0ms)[0m  SELECT "answers".* FROM "answers"
+  [1m[36mAnswer Load (0.0ms)[0m  [1mSELECT "answers".* FROM "answers"[0m
+  [1m[35m (1.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (131.0ms)[0m  [1mINSERT INTO "answers" ("body", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["body", "yes"], ["created_at", Wed, 28 May 2014 14:07:49 UTC +00:00], ["updated_at", Wed, 28 May 2014 14:07:49 UTC +00:00]]
+  [1m[35m (1.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36mAnswer Load (0.0ms)[0m  [1mSELECT "answers".* FROM "answers"[0m
+  [1m[35mAnswer Load (1.0ms)[0m  SELECT "answers".* FROM "answers"
+  [1m[36m (3.0ms)[0m  [1mrollback transaction[0m
