@@ -8,4 +8,8 @@ class Question < ActiveRecord::Base
   def self.unsolved(params)
     where(solved: false).paginate(page: params[:page], per_page: 3, order: 'created_at DESC')
   end
+
+  def self.search(params)
+  	where("body LiKE ?", "%#{params[:keyword]}%").paginate(page: params[:page], per_page: 3, order: 'created_at DESC')
+  end
 end

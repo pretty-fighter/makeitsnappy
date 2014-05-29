@@ -40,6 +40,10 @@ class QuestionsController < ApplicationController
     end
   end
 
+  def search
+    @questions = Question.search(params)
+  end
+
   private
 
   def question_create_params
