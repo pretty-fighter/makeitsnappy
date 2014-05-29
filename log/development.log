@@ -7884,3 +7884,64 @@ Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-05-29 23:02:44 +0800
 
 
 Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-29 23:02:44 +0800
+
+
+Started GET "/search?utf8=%E2%9C%93&keyword=sword&commit=Search" for 127.0.0.1 at 2014-05-29 23:09:09 +0800
+Processing by QuestionsController#search as HTML
+  Parameters: {"utf8"=>"✓", "keyword"=>"sword", "commit"=>"Search"}
+DEPRECATION WARNING: #apply_finder_options is deprecated. (called from search at C:/learning/makeitsnappy_github/app/models/question.rb:13)
+  [1m[35m (2.0ms)[0m  SELECT COUNT(*) FROM "questions" WHERE (body LiKE '%sword%')
+  [1m[36mQuestion Load (1.0ms)[0m  [1mSELECT "questions".* FROM "questions" WHERE (body LiKE '%sword%') ORDER BY created_at DESC LIMIT 3 OFFSET 0[0m
+  [1m[35mUser Load (1.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT 1  [["id", 3]]
+  [1m[36m (1.0ms)[0m  [1mSELECT COUNT(*) FROM "answers" WHERE "answers"."question_id" = ?[0m  [["question_id", 7]]
+  [1m[35mUser Load (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT 1  [["id", 1]]
+  [1m[36m (1.0ms)[0m  [1mSELECT COUNT(*) FROM "answers" WHERE "answers"."question_id" = ?[0m  [["question_id", 1]]
+  Rendered questions/_question.html.erb (27.0ms)
+  Rendered questions/search.html.erb within layouts/application (53.0ms)
+  Rendered common/_search_form.html.erb (1.0ms)
+Completed 200 OK in 2421ms (Views: 2399.1ms | ActiveRecord: 6.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-29 23:09:11 +0800
+
+
+Started GET "/assets/answers.css?body=1" for 127.0.0.1 at 2014-05-29 23:09:11 +0800
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-29 23:09:11 +0800
+
+
+Started GET "/assets/questions.css?body=1" for 127.0.0.1 at 2014-05-29 23:09:11 +0800
+
+
+Started GET "/assets/sessions.css?body=1" for 127.0.0.1 at 2014-05-29 23:09:12 +0800
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-05-29 23:09:12 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-29 23:09:12 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-29 23:09:12 +0800
+
+
+Started GET "/assets/makeitsnappy.js?body=1" for 127.0.0.1 at 2014-05-29 23:09:12 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-29 23:09:12 +0800
+
+
+Started GET "/assets/answers.js?body=1" for 127.0.0.1 at 2014-05-29 23:09:12 +0800
+
+
+Started GET "/assets/questions.js?body=1" for 127.0.0.1 at 2014-05-29 23:09:12 +0800
+
+
+Started GET "/assets/sessions.js?body=1" for 127.0.0.1 at 2014-05-29 23:09:12 +0800
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-05-29 23:09:12 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-29 23:09:12 +0800
